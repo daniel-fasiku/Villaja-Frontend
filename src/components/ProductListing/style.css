@@ -1,0 +1,121 @@
+.product-listing {
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  gap: 32px;
+  height: 96px;
+  padding: 8px;
+  position: relative;
+  width: 928px;
+}
+
+.product-listing .product-name-and-img {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.product-listing .pic {
+  height: 64px;
+  position: relative;
+  width: 64px;
+}
+
+.product-listing .image {
+  height: 64px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 52px;
+}
+
+.product-listing .frame-3 {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 16px 0px;
+  position: relative;
+  width: 233px;
+}
+
+.product-listing .text-wrapper-10 {
+  align-self: stretch;
+  color: #111111;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+}
+
+.product-listing .price {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  gap: 10px;
+  padding: 22px 0px;
+  position: relative;
+  width: 120px;
+}
+
+.product-listing .text-wrapper-11 {
+  color: #111111;
+  flex: 1;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+}
+
+.product-listing .date-added {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  gap: 10px;
+  padding: 22px 0px;
+  position: relative;
+  width: 112px;
+}
+
+.product-listing .units-sold {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  gap: 10px;
+  padding: 22px 0px;
+  position: relative;
+  width: 80px;
+}
+
+.product-listing .units-sold-2 {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  gap: 10px;
+  padding: 22px 0px;
+  position: relative;
+  width: 144px;
+}
+
+.product-listing .text-wrapper-12 {
+  color: #111111;
+  flex: 1;
+  font-family: var(--body-regular-6-font-family);
+  font-size: var(--body-regular-6-font-size);
+  font-style: var(--body-regular-6-font-style);
+  font-weight: var(--body-regular-6-font-weight);
+  letter-spacing: var(--body-regular-6-letter-spacing);
+  line-height: var(--body-regular-6-line-height);
+  margin-top: -1px;
+  position: relative;
+}
