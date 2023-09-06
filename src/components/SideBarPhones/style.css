@@ -1,0 +1,68 @@
+.side-bar-phones {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.side-bar-phones .price-section {
+  background-color: #ffffff;
+  height: 164px;
+  position: relative;
+  width: 288px;
+}
+
+.side-bar-phones .side-bar-comps-33 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.side-bar-phones .side-bar-comps-34 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 48px !important;
+}
+
+.side-bar-phones .screen-size-section {
+  height: 240px;
+  position: relative;
+  width: 288px;
+}
+
+.side-bar-phones .frame-18 {
+  height: 192px;
+  left: 0;
+  overflow-y: scroll;
+  position: absolute;
+  top: 48px;
+  width: 288px;
+}
+
+.side-bar-phones .side-bar-comps-35 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 96px !important;
+}
+
+.side-bar-phones .side-bar-comps-36 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 144px !important;
+}
+
+.side-bar-phones .condition-section {
+  height: 192px;
+  position: relative;
+  width: 288px;
+}
+
+.side-bar-phones .frame-19 {
+  height: 144px;
+  left: 0;
+  overflow-y: scroll;
+  position: absolute;
+  top: 48px;
+  width: 288px;
+}

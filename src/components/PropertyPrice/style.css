@@ -1,0 +1,86 @@
+.property-price {
+  background-color: var(--icy-gray);
+  height: 116px;
+  position: relative;
+  width: 288px;
+}
+
+.property-price .icon-input-fields-instance {
+  height: 64px !important;
+  left: 16px !important;
+  position: absolute !important;
+  top: 36px !important;
+  width: 100px !important;
+}
+
+.property-price .design-component-instance-node {
+  left: unset !important;
+  position: relative !important;
+  top: 22px !important;
+  width: 100px !important;
+}
+
+.property-price .icon-input-fields-2 {
+  height: 64px !important;
+  left: 172px !important;
+  position: absolute !important;
+  top: 36px !important;
+  width: 100px !important;
+}
+
+.property-price .text-wrapper-19 {
+  color: #000000;
+  font-family: var(--body-semibold-3-font-family);
+  font-size: var(--body-semibold-3-font-size);
+  font-style: var(--body-semibold-3-font-style);
+  font-weight: var(--body-semibold-3-font-weight);
+  left: 136px;
+  letter-spacing: var(--body-semibold-3-letter-spacing);
+  line-height: var(--body-semibold-3-line-height);
+  position: absolute;
+  text-align: center;
+  top: 63px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.property-price .overlap-group-wrapper {
+  height: 16px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 256px;
+}
+
+.property-price .overlap-group-5 {
+  height: 16px;
+  position: relative;
+}
+
+.property-price .rectangle-2 {
+  background-color: var(--hover-pad);
+  border-radius: 16px;
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 246px;
+}
+
+.property-price .rectangle-3 {
+  background: linear-gradient(180deg, rgb(0, 180, 216) 0%, rgb(0, 119, 182) 100%);
+  border-radius: 16px;
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 248px;
+}
+
+.property-price .ellipse-2 {
+  height: 16px;
+  left: 240px;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}

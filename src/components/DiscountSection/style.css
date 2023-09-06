@@ -1,0 +1,137 @@
+.discount-section {
+  background-color: #ffffff;
+  height: 144px;
+  position: relative;
+  width: 288px;
+}
+
+.discount-section .property-1-topic {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.discount-section .side-bar-comps-6 {
+  background-color: var(--icy-gray);
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 288px;
+}
+
+.discount-section .category-6 {
+  color: #111111;
+  font-family: var(--body-semibold-3-font-family);
+  font-size: var(--body-semibold-3-font-size);
+  font-style: var(--body-semibold-3-font-style);
+  font-weight: var(--body-semibold-3-font-weight);
+  left: 16px;
+  letter-spacing: var(--body-semibold-3-letter-spacing);
+  line-height: var(--body-semibold-3-line-height);
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.discount-section .frame-11 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10px;
+  left: 214px;
+  padding: 4px;
+  position: absolute;
+  top: 8px;
+}
+
+.discount-section .text-wrapper-20 {
+  color: #111111;
+  font-family: var(--body-link-4-font-family);
+  font-size: var(--body-link-4-font-size);
+  font-style: var(--body-link-4-font-style);
+  font-weight: var(--body-link-4-font-weight);
+  letter-spacing: var(--body-link-4-letter-spacing);
+  line-height: var(--body-link-4-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: right;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.discount-section .side-bar-comps-7 {
+  align-items: center;
+  background-color: var(--icy-gray);
+  display: flex;
+  gap: 8px;
+  left: 0;
+  padding: 4px 12px 4px 8px;
+  position: absolute;
+  top: 48px;
+  width: 288px;
+}
+
+.discount-section .side-bar-comps-8 {
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.discount-section .overlap-group-6 {
+  border-radius: 16px;
+  height: 24px;
+  left: 8px;
+  position: relative;
+  top: 8px;
+  width: 24px;
+}
+
+.discount-section .frame-12 {
+  background: linear-gradient(180deg, rgb(0, 180, 216) 0%, rgb(0, 119, 182) 100%);
+  border: 2px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(0, 180, 216), rgb(0, 119, 182)) 1;
+  border-radius: 16px;
+  height: 14px;
+  left: 5px;
+  position: relative;
+  top: 5px;
+  width: 14px;
+}
+
+.discount-section .filter-name-3 {
+  color: #111111;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.discount-section .property-variant {
+  left: 0 !important;
+  position: absolute !important;
+  top: 96px !important;
+}
+
+.discount-section .class-7 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 48px !important;
+}
+
+.discount-section .side-bar-comps-9 {
+  align-items: center;
+  background-color: var(--icy-gray);
+  display: flex;
+  gap: 8px;
+  left: 0;
+  padding: 4px 12px 4px 8px;
+  position: absolute;
+  top: 96px;
+  width: 288px;
+}

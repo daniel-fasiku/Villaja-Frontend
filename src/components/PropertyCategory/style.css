@@ -1,0 +1,19 @@
+.property-category {
+  background-color: var(--icy-gray);
+  height: 48px;
+  position: relative;
+  width: 288px;
+}
+
+.property-category .category-3 {
+  color: #111111;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 48px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}

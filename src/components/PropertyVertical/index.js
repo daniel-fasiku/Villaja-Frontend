@@ -1,0 +1,1 @@
+export { PropertyVertical } from "./PropertyVertical";

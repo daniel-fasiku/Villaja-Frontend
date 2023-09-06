@@ -1,0 +1,59 @@
+.property-no-star {
+  background-color: var(--icy-gray);
+  height: 48px;
+  position: relative;
+  width: 288px;
+}
+
+.property-no-star .element-stars-instance {
+  height: 16px !important;
+  left: 16px !important;
+  position: absolute !important;
+  top: 16px !important;
+  width: 128px !important;
+}
+
+.property-no-star .five-stars-instance {
+  height: 19px !important;
+  width: 22px !important;
+}
+
+.property-no-star .element-stars-2 {
+  height: 19px !important;
+  left: 25px !important;
+  width: 22px !important;
+}
+
+.property-no-star .element-stars-3 {
+  height: 19px !important;
+  left: 53px !important;
+  width: 22px !important;
+}
+
+.property-no-star .element-stars-4 {
+  height: 19px !important;
+  left: 81px !important;
+  width: 22px !important;
+}
+
+.property-no-star .element-stars-5 {
+  height: 19px !important;
+  left: 108px !important;
+  width: 22px !important;
+}
+
+.property-no-star .up {
+  color: #000000;
+  font-family: var(--body-semibold-4-font-family);
+  font-size: var(--body-semibold-4-font-size);
+  font-style: var(--body-semibold-4-font-style);
+  font-weight: var(--body-semibold-4-font-weight);
+  height: 16px;
+  left: 160px;
+  letter-spacing: var(--body-semibold-4-letter-spacing);
+  line-height: var(--body-semibold-4-line-height);
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+  width: 65px;
+}

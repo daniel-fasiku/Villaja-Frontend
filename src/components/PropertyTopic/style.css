@@ -1,0 +1,20 @@
+.property-topic {
+  background-color: var(--icy-gray);
+  height: 48px;
+  position: relative;
+  width: 288px;
+}
+
+.property-topic .category {
+  color: #111111;
+  font-family: var(--body-semibold-3-font-family);
+  font-size: var(--body-semibold-3-font-size);
+  font-style: var(--body-semibold-3-font-style);
+  font-weight: var(--body-semibold-3-font-weight);
+  left: 16px;
+  letter-spacing: var(--body-semibold-3-letter-spacing);
+  line-height: var(--body-semibold-3-line-height);
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}

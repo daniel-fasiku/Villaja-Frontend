@@ -1,0 +1,119 @@
+.internal-memory {
+  height: 288px;
+  width: 288px;
+}
+
+.internal-memory .overlap-group-9 {
+  height: 432px;
+  left: 0;
+  position: absolute;
+  top: 48px;
+  width: 288px;
+}
+
+.internal-memory .group-9 {
+  height: 432px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 288px;
+}
+
+.internal-memory .side-bar-comps-24 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.internal-memory .side-bar-comps-25 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 48px !important;
+}
+
+.internal-memory .side-bar-comps-26 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 96px !important;
+}
+
+.internal-memory .side-bar-comps-27 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 144px !important;
+}
+
+.internal-memory .side-bar-comps-28 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 192px !important;
+}
+
+.internal-memory .side-bar-comps-29 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 240px !important;
+}
+
+.internal-memory .side-bar-comps-30 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 288px !important;
+}
+
+.internal-memory .side-bar-comps-31 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 336px !important;
+}
+
+.internal-memory .side-bar-comps-32 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 384px !important;
+}
+
+.internal-memory .frame-16 {
+  background-color: #eaeaef;
+  border-radius: 4px;
+  height: 221px;
+  left: 264px;
+  position: absolute;
+  top: 8px;
+  width: 8px;
+}
+
+.internal-memory .scroll-bar-5 {
+  background-color: var(--colorsgreyscale-300);
+  border-radius: 4px;
+  height: 102px;
+}
+
+.internal-memory .overlap-group-10 {
+  height: 432px;
+  position: relative;
+  top: -144px;
+}
+
+.internal-memory .frame-17 {
+  background-color: #eaeaef;
+  border-radius: 4px;
+  height: 221px;
+  left: 264px;
+  position: absolute;
+  top: 200px;
+  width: 8px;
+}
+
+.internal-memory .scroll-bar-6 {
+  background-color: var(--colorsgreyscale-300);
+  border-radius: 4px;
+  height: 102px;
+  position: relative;
+  top: 119px;
+}
+
+.internal-memory.memory-section-pt-1 {
+  overflow: hidden;
+  position: relative;
+}

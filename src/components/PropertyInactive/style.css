@@ -1,0 +1,39 @@
+.property-inactive {
+  align-items: center;
+  background-color: var(--icy-gray);
+  display: flex;
+  gap: 8px;
+  padding: 4px 8px;
+  position: relative;
+  width: 288px;
+}
+
+.property-inactive .frame-3 {
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.property-inactive .frame-4 {
+  border: 2px solid;
+  border-color: transparent;
+  border-image: radial-gradient(rgba(255, 255, 255, 0), rgba(52, 87.2, 140, 0.2)) 1;
+  border-radius: 4px;
+  height: 24px;
+  left: 8px;
+  position: relative;
+  top: 8px;
+  width: 24px;
+}
+
+.property-inactive .filter-name {
+  color: #111111;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

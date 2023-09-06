@@ -1,0 +1,46 @@
+.property-apply {
+  background-color: var(--icy-gray);
+  height: 48px;
+  position: relative;
+  width: 288px;
+}
+
+.property-apply .category-5 {
+  color: #111111;
+  font-family: var(--body-semibold-3-font-family);
+  font-size: var(--body-semibold-3-font-size);
+  font-style: var(--body-semibold-3-font-style);
+  font-weight: var(--body-semibold-3-font-weight);
+  left: 16px;
+  letter-spacing: var(--body-semibold-3-letter-spacing);
+  line-height: var(--body-semibold-3-line-height);
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.property-apply .frame-6 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10px;
+  left: 214px;
+  padding: 4px;
+  position: absolute;
+  top: 8px;
+}
+
+.property-apply .text-wrapper-18 {
+  color: #111111;
+  font-family: var(--body-link-4-font-family);
+  font-size: var(--body-link-4-font-size);
+  font-style: var(--body-link-4-font-style);
+  font-weight: var(--body-link-4-font-weight);
+  letter-spacing: var(--body-link-4-letter-spacing);
+  line-height: var(--body-link-4-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: right;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}

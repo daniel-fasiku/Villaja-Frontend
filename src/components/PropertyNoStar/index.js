@@ -1,0 +1,1 @@
+export { PropertyNoStar } from "./PropertyNoStar";

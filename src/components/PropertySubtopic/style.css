@@ -1,0 +1,19 @@
+.property-subtopic {
+  background-color: var(--icy-gray);
+  height: 48px;
+  position: relative;
+  width: 288px;
+}
+
+.property-subtopic .category-2 {
+  color: #111111;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}

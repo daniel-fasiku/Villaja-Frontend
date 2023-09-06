@@ -1,0 +1,102 @@
+.category-comp-for {
+  height: 336px;
+  position: relative;
+  width: 288px;
+}
+
+.category-comp-for .side-bar-comps {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.category-comp-for .property-1-subtopic {
+  left: 0 !important;
+  position: absolute !important;
+  top: 48px !important;
+}
+
+.category-comp-for .category-wrapper {
+  background: linear-gradient(180deg, rgb(0, 180, 216) 0%, rgb(0, 119, 182) 100%);
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 288px;
+  width: 288px;
+}
+
+.category-comp-for .category-4 {
+  color: #ffffff;
+  font-family: var(--body-semibold-4-font-family);
+  font-size: var(--body-semibold-4-font-size);
+  font-style: var(--body-semibold-4-font-style);
+  font-weight: var(--body-semibold-4-font-weight);
+  left: 48px;
+  letter-spacing: var(--body-semibold-4-letter-spacing);
+  line-height: var(--body-semibold-4-line-height);
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.category-comp-for .class-3 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 96px !important;
+}
+
+.category-comp-for .class-4 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 288px !important;
+}
+
+.category-comp-for .class-5 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 144px !important;
+}
+
+.category-comp-for .class-6 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 192px !important;
+}
+
+.category-comp-for .property-1-category-3-inactive {
+  left: 0 !important;
+  position: absolute !important;
+  top: 240px !important;
+}
+
+.category-comp-for .div-wrapper {
+  background: linear-gradient(180deg, rgb(0, 180, 216) 0%, rgb(0, 119, 182) 100%);
+  height: 48px;
+  left: 0;
+  position: absolute;
+  width: 288px;
+}
+
+.category-comp-for .property-1-13-ios-phones {
+  top: 192px;
+}
+
+.category-comp-for .property-1-13-windows-phones {
+  top: 240px;
+}
+
+.category-comp-for .property-1-13-other-phones {
+  top: 96px;
+}
+
+.category-comp-for .property-1-13-android-phones {
+  top: 144px;
+}
+
+.category-comp-for .property-1-13-basic-phones {
+  top: 96px;
+}
+
+.category-comp-for .property-1-13-default {
+  top: 96px;
+}

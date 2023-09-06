@@ -1,0 +1,25 @@
+.property {
+  align-items: center;
+  background-color: var(--icy-gray);
+  display: flex;
+  gap: 8px;
+  padding: 4px 8px;
+  position: relative;
+  width: 288px;
+}
+
+.property .property-1-radio-inactive {
+  position: relative !important;
+}
+
+.property .filter-name-2 {
+  color: #111111;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

@@ -1,0 +1,1 @@
+export { CategoryCompFor } from "./CategoryCompFor";

@@ -1,0 +1,1 @@
+export { BrandSectionComps } from "./BrandSectionComps";

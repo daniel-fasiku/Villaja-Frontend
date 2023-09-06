@@ -1,0 +1,112 @@
+.brand-section-comps {
+  height: 288px;
+  width: 288px;
+}
+
+.brand-section-comps .overlap-group-3 {
+  height: 336px;
+  left: 0;
+  position: absolute;
+  top: 48px;
+  width: 288px;
+}
+
+.brand-section-comps .group-7 {
+  height: 336px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 288px;
+}
+
+.brand-section-comps .side-bar-comps-2 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.brand-section-comps .side-bar-comps-3 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 48px !important;
+}
+
+.brand-section-comps .property-1-inactive-filter {
+  left: 0 !important;
+  position: absolute !important;
+  top: 96px !important;
+}
+
+.brand-section-comps .property-inactive-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 144px !important;
+}
+
+.brand-section-comps .property-1-inactive-filter-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 192px !important;
+}
+
+.brand-section-comps .side-bar-comps-4 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 240px !important;
+}
+
+.brand-section-comps .side-bar-comps-5 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 288px !important;
+}
+
+.brand-section-comps .scroll-bar-wrapper {
+  background-color: #eaeaef;
+  border-radius: 4px;
+  height: 221px;
+  left: 264px;
+  position: absolute;
+  top: 8px;
+  width: 8px;
+}
+
+.brand-section-comps .scroll-bar {
+  background-color: var(--colorsgreyscale-300);
+  border-radius: 4px;
+  height: 160px;
+}
+
+.brand-section-comps .overlap-group-4 {
+  height: 336px;
+  position: relative;
+  top: -48px;
+}
+
+.brand-section-comps .frame-5 {
+  background-color: #eaeaef;
+  border-radius: 4px;
+  height: 221px;
+  left: 264px;
+  position: absolute;
+  top: 104px;
+  width: 8px;
+}
+
+.brand-section-comps .scroll-bar-2 {
+  background-color: var(--colorsgreyscale-300);
+  border-radius: 4px;
+  height: 160px;
+  position: relative;
+  top: 61px;
+}
+
+.brand-section-comps.variant-3 {
+  overflow: hidden;
+  position: relative;
+}
+
+.brand-section-comps.brand-section-pt-1 {
+  overflow: hidden;
+  position: relative;
+}
