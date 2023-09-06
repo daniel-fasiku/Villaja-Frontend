@@ -1,0 +1,41 @@
+.qty-component {
+  align-items: center;
+  display: inline-flex;
+  gap: 12px;
+  position: relative;
+}
+
+.qty-component .icon-button-instance {
+  border-color: var(--colorsgreyscale-400) !important;
+  height: 28px !important;
+  width: 28px !important;
+}
+
+.qty-component .icon-button-2 {
+  height: 24px !important;
+  left: 2px !important;
+  position: absolute !important;
+  top: 2px !important;
+  transform: rotate(180deg) !important;
+  width: 24px !important;
+}
+
+.qty-component .icon-button-3 {
+  height: 28px;
+  position: relative;
+  width: 28px;
+}
+
+.qty-component .group-wrapper {
+  height: 36px;
+  position: relative;
+  width: 44px;
+}
+
+.qty-component .group-3 {
+  height: 22px;
+  left: 2px;
+  position: absolute;
+  top: 7px;
+  width: 40px;
+}

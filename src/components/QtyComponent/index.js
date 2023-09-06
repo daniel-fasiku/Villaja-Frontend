@@ -1,0 +1,1 @@
+export { QtyComponent } from "./QtyComponent";

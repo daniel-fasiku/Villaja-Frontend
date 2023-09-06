@@ -1,0 +1,11 @@
+.icon-button {
+  background-color: var(--colorsgreyscale-100);
+  border: 1px solid;
+  border-color: var(--veritas-dark-green);
+  border-radius: 20px;
+  height: 24px;
+  overflow: hidden;
+  position: relative;
+  transform: rotate(-180deg);
+  width: 24px;
+}

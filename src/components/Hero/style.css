@@ -1,0 +1,142 @@
+.hero {
+  background-color: var(--colorsgreyscale-600);
+  position: relative;
+  width: 1440px;
+}
+
+.hero .logo-instance {
+  color: var(--colorsgreyscale-100) !important;
+}
+
+.hero .logo-2 {
+  left: 1196px !important;
+  position: absolute !important;
+  top: 34px !important;
+}
+
+.hero .pic {
+  background-image: url(../../../static/img/iphone-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 314px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 624px;
+}
+
+.hero .group-2 {
+  height: 48px;
+  position: absolute;
+  width: 525px;
+}
+
+.hero .from-sellers-you-can {
+  color: var(--colorsgreyscale-100);
+  font-family: var(--headings-desktop-h4-font-family);
+  font-size: var(--headings-desktop-h4-font-size);
+  font-style: var(--headings-desktop-h4-font-style);
+  font-weight: var(--headings-desktop-h4-font-weight);
+  left: 203px;
+  letter-spacing: var(--headings-desktop-h4-letter-spacing);
+  line-height: var(--headings-desktop-h4-line-height);
+  position: absolute;
+  text-align: right;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.hero .pic-2 {
+  position: absolute;
+}
+
+.hero .iphone {
+  height: 144px;
+  left: 47px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 577px;
+}
+
+.hero .frame-wrapper {
+  height: 62px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 437px;
+}
+
+.hero .frame-7 {
+  align-items: flex-start;
+  background-color: var(--colorsgreyscale-100);
+  border: 1px solid;
+  border-color: #7a7a7a80;
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  top: 18px;
+  width: 437px;
+}
+
+.hero .bx-search-2 {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.hero .default-3 {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-small-regular-font-family);
+  font-size: var(--body-small-regular-font-size);
+  font-style: var(--body-small-regular-font-style);
+  font-weight: var(--body-small-regular-font-weight);
+  letter-spacing: var(--body-small-regular-letter-spacing);
+  line-height: var(--body-small-regular-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.hero .buttons-2 {
+  left: 469px !important;
+  position: absolute !important;
+  top: 18px !important;
+  width: 96px !important;
+}
+
+.hero.property-1-18-variant-1 {
+  height: 144px;
+  overflow: hidden;
+}
+
+.hero.property-1-18-default {
+  height: 314px;
+}
+
+.hero.property-1-18-variant-1 .group-2 {
+  left: 620px;
+  top: 48px;
+}
+
+.hero.property-1-18-default .group-2 {
+  left: 816px;
+  top: 133px;
+}
+
+.hero.property-1-18-variant-1 .pic-2 {
+  height: 314px;
+  left: -47px;
+  top: 0;
+  width: 624px;
+}
+
+.hero.property-1-18-default .pic-2 {
+  height: 62px;
+  left: 774px;
+  top: 189px;
+  width: 565px;
+}
