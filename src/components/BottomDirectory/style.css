@@ -1,0 +1,65 @@
+.bottom-directory {
+  height: 144px;
+  position: relative;
+  width: 1440px;
+}
+
+.bottom-directory .class-3 {
+  color: var(--colorsgreyscale-500) !important;
+}
+
+.bottom-directory .class-4 {
+  color: var(--colorsgreyscale-100) !important;
+}
+
+.bottom-directory .frame-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 64px;
+  position: absolute;
+  top: 60px;
+}
+
+.bottom-directory .top-menu-comp-instance {
+  flex: 0 0 auto !important;
+}
+
+.bottom-directory .top-menu-comp-2 {
+  font-family: var(--headings-mobile-h5-font-family) !important;
+  font-size: var(--headings-mobile-h5-font-size) !important;
+  font-style: var(--headings-mobile-h5-font-style) !important;
+  font-weight: var(--headings-mobile-h5-font-weight) !important;
+  letter-spacing: var(--headings-mobile-h5-letter-spacing) !important;
+  line-height: var(--headings-mobile-h5-line-height) !important;
+}
+
+.bottom-directory .class-5 {
+  color: var(--colorsgreyscale-500) !important;
+  font-family: var(--headings-mobile-h5-font-family) !important;
+  font-size: var(--headings-mobile-h5-font-size) !important;
+  font-style: var(--headings-mobile-h5-font-style) !important;
+  font-weight: var(--headings-mobile-h5-font-weight) !important;
+  letter-spacing: var(--headings-mobile-h5-letter-spacing) !important;
+  line-height: var(--headings-mobile-h5-line-height) !important;
+}
+
+.bottom-directory .top-menu-comp-3 {
+  flex: 0 0 auto !important;
+  gap: 8px !important;
+}
+
+.bottom-directory.property-1-9-default {
+  background-color: var(--colorsgreyscale-600);
+}
+
+.bottom-directory.property-1-9-seller-pov {
+  background-color: var(--icy-gray);
+}
+
+.bottom-directory.property-1-9-default .frame-3 {
+  left: 450px;
+}
+
+.bottom-directory.property-1-9-seller-pov .frame-3 {
+  left: 849px;
+}

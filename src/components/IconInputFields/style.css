@@ -1,0 +1,211 @@
+.icon-input-fields {
+  position: relative;
+}
+
+.icon-input-fields .frame {
+  align-items: flex-start;
+  border: 1px solid;
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  top: 18px;
+  width: 300px;
+}
+
+.icon-input-fields .bx-search {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.icon-input-fields .default-2 {
+  font-family: var(--body-small-regular-font-family);
+  font-size: var(--body-small-regular-font-size);
+  font-style: var(--body-small-regular-font-style);
+  font-weight: var(--body-small-regular-font-weight);
+  letter-spacing: var(--body-small-regular-letter-spacing);
+  line-height: var(--body-small-regular-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.icon-input-fields .img {
+  height: 45px;
+  left: 977px;
+  position: absolute;
+  top: 814px;
+  width: 300px;
+}
+
+.icon-input-fields .frame-2 {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #a73131;
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  width: 300px;
+}
+
+.icon-input-fields .bx-search-2 {
+  height: 24px;
+  margin-bottom: -532px;
+  margin-right: -721px;
+  position: relative;
+  width: 24px;
+}
+
+.icon-input-fields .default-3 {
+  color: #222222;
+  font-family: var(--body-small-regular-font-family);
+  font-size: var(--body-small-regular-font-size);
+  font-style: var(--body-small-regular-font-style);
+  font-weight: var(--body-small-regular-font-weight);
+  letter-spacing: var(--body-small-regular-letter-spacing);
+  line-height: var(--body-small-regular-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.icon-input-fields .p {
+  color: #a73131;
+  font-family: var(--caption-font-family);
+  font-size: var(--caption-font-size);
+  font-style: var(--caption-font-style);
+  font-weight: var(--caption-font-weight);
+  letter-spacing: var(--caption-letter-spacing);
+  line-height: var(--caption-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.icon-input-fields.active {
+  height: 62px;
+  width: 300px;
+}
+
+.icon-input-fields.disabled {
+  height: 62px;
+  width: 300px;
+}
+
+.icon-input-fields.focus {
+  height: 62px;
+  width: 300px;
+}
+
+.icon-input-fields.invalid {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.icon-input-fields.default {
+  height: 62px;
+  width: 300px;
+}
+
+.icon-input-fields.entered {
+  height: 62px;
+  width: 300px;
+}
+
+.icon-input-fields.valid {
+  height: 62px;
+  width: 300px;
+}
+
+.icon-input-fields.active .frame {
+  background-color: #ffffff;
+  border-color: #7a7a7a80;
+}
+
+.icon-input-fields.disabled .frame {
+  background-color: #d4d4d4;
+  border-color: #7a7a7a80;
+}
+
+.icon-input-fields.focus .frame {
+  background-color: #ffffff;
+  border-color: #7a7a7a;
+}
+
+.icon-input-fields.invalid .frame {
+  background-color: #ffffff;
+  border-color: #7a7a7a80;
+}
+
+.icon-input-fields.default .frame {
+  background-color: #ffffff;
+  border-color: #7a7a7a80;
+}
+
+.icon-input-fields.entered .frame {
+  background-color: #ffffff;
+  border-color: #7a7a7a80;
+}
+
+.icon-input-fields.valid .frame {
+  background-color: #ffffff;
+  border-color: #74a76b;
+}
+
+.icon-input-fields.disabled .bx-search {
+  margin-bottom: -646px;
+  margin-right: -721px;
+}
+
+.icon-input-fields.focus .bx-search {
+  margin-bottom: -844px;
+  margin-right: -721px;
+}
+
+.icon-input-fields.entered .bx-search {
+  margin-bottom: -712px;
+  margin-right: -721px;
+}
+
+.icon-input-fields.valid .bx-search {
+  margin-bottom: -580px;
+  margin-right: -721px;
+}
+
+.icon-input-fields.active .default-2 {
+  color: #5c5c5c80;
+}
+
+.icon-input-fields.disabled .default-2 {
+  color: #222222b2;
+}
+
+.icon-input-fields.focus .default-2 {
+  color: #5c5c5c80;
+}
+
+.icon-input-fields.invalid .default-2 {
+  color: #5c5c5c80;
+}
+
+.icon-input-fields.default .default-2 {
+  color: #5c5c5c80;
+}
+
+.icon-input-fields.entered .default-2 {
+  color: #222222;
+}
+
+.icon-input-fields.valid .default-2 {
+  color: #222222;
+}

@@ -1,0 +1,156 @@
+.variant-ghost-icon-wrapper {
+  align-items: center;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 8px 16px;
+  position: relative;
+}
+
+.variant-ghost-icon-wrapper .small-2 {
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.variant-ghost-icon-wrapper .icon-chevron-left {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.variant-ghost-icon-wrapper .small-3 {
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.variant-ghost-icon-wrapper.filled {
+  background-color: var(--colorsgreyscale-600);
+}
+
+.variant-ghost-icon-wrapper.outlined {
+  background-color: var(--colorsgreyscale-100);
+  border: 2px solid;
+  border-color: var(--colorsgreyscale-600);
+}
+
+.variant-ghost-icon-wrapper .variant-outlined {
+  color: var(--colorsgreyscale-600);
+  margin-top: -2px;
+}
+
+.variant-ghost-icon-wrapper .variant-ghost {
+  color: var(--colorsgreyscale-600);
+  margin-top: -1px;
+}
+
+.variant-ghost-icon-wrapper .small {
+  font-family: var(--body-regular-4-font-family);
+  font-size: var(--body-regular-4-font-size);
+  font-style: var(--body-regular-4-font-style);
+  font-weight: var(--body-regular-4-font-weight);
+  letter-spacing: var(--body-regular-4-letter-spacing);
+  line-height: var(--body-regular-4-line-height);
+}
+
+.variant-ghost-icon-wrapper .variant-filled {
+  color: var(--colorsgreyscale-100);
+  margin-top: -1px;
+}
+
+.variant-ghost-icon-wrapper .medium {
+  font-family: var(--body-regular-3-font-family);
+  font-size: var(--body-regular-3-font-size);
+  font-style: var(--body-regular-3-font-style);
+  font-weight: var(--body-regular-3-font-weight);
+  letter-spacing: var(--body-regular-3-letter-spacing);
+  line-height: var(--body-regular-3-line-height);
+}
+
+.variant-ghost-icon-wrapper .variant-ghost.large {
+  font-family: var(--body-regular-2-font-family);
+  font-size: var(--body-regular-2-font-size);
+  font-style: var(--body-regular-2-font-style);
+  font-weight: var(--body-regular-2-font-weight);
+  letter-spacing: var(--body-regular-2-letter-spacing);
+  line-height: var(--body-regular-2-line-height);
+}
+
+.variant-ghost-icon-wrapper .variant-outlined.large {
+  font-family: "Manrope", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.variant-ghost-icon-wrapper .variant-filled.large {
+  font-family: var(--body-regular-2-font-family);
+  font-size: var(--body-regular-2-font-size);
+  font-style: var(--body-regular-2-font-style);
+  font-weight: var(--body-regular-2-font-weight);
+  letter-spacing: var(--body-regular-2-letter-spacing);
+  line-height: var(--body-regular-2-line-height);
+}
+
+.variant-ghost-icon-wrapper .variant-0-outlined {
+  color: var(--colorsgreyscale-600);
+  margin-top: -2px;
+}
+
+.variant-ghost-icon-wrapper .variant-0-ghost {
+  color: var(--colorsgreyscale-600);
+  margin-top: -1px;
+}
+
+.variant-ghost-icon-wrapper .size-small {
+  font-family: var(--body-regular-4-font-family);
+  font-size: var(--body-regular-4-font-size);
+  font-style: var(--body-regular-4-font-style);
+  font-weight: var(--body-regular-4-font-weight);
+  letter-spacing: var(--body-regular-4-letter-spacing);
+  line-height: var(--body-regular-4-line-height);
+}
+
+.variant-ghost-icon-wrapper .variant-0-filled {
+  color: var(--colorsgreyscale-100);
+  margin-top: -1px;
+}
+
+.variant-ghost-icon-wrapper .size-medium {
+  font-family: var(--body-regular-3-font-family);
+  font-size: var(--body-regular-3-font-size);
+  font-style: var(--body-regular-3-font-style);
+  font-weight: var(--body-regular-3-font-weight);
+  letter-spacing: var(--body-regular-3-letter-spacing);
+  line-height: var(--body-regular-3-line-height);
+}
+
+.variant-ghost-icon-wrapper .variant-0-ghost.size-large {
+  font-family: var(--body-regular-2-font-family);
+  font-size: var(--body-regular-2-font-size);
+  font-style: var(--body-regular-2-font-style);
+  font-weight: var(--body-regular-2-font-weight);
+  letter-spacing: var(--body-regular-2-letter-spacing);
+  line-height: var(--body-regular-2-line-height);
+}
+
+.variant-ghost-icon-wrapper .variant-0-outlined.size-large {
+  font-family: "Manrope", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.variant-ghost-icon-wrapper .variant-0-filled.size-large {
+  font-family: var(--body-regular-2-font-family);
+  font-size: var(--body-regular-2-font-size);
+  font-style: var(--body-regular-2-font-style);
+  font-weight: var(--body-regular-2-font-weight);
+  letter-spacing: var(--body-regular-2-letter-spacing);
+  line-height: var(--body-regular-2-line-height);
+}

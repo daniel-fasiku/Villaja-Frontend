@@ -1,0 +1,1 @@
+export { IconPlay } from "./IconPlay";

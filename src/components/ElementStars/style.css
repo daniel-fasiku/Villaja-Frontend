@@ -1,0 +1,66 @@
+.element-stars {
+  height: 8px;
+  position: relative;
+  width: 64px;
+}
+
+.element-stars .star {
+  height: 12px;
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: 14px;
+}
+
+.element-stars .star-2 {
+  height: 12px;
+  left: 11px;
+  position: absolute;
+  top: -2px;
+  width: 14px;
+}
+
+.element-stars .star-3 {
+  height: 12px;
+  left: 25px;
+  position: absolute;
+  top: -2px;
+  width: 14px;
+}
+
+.element-stars .star-4 {
+  height: 12px;
+  left: 39px;
+  position: absolute;
+  top: -2px;
+  width: 14px;
+}
+
+.element-stars .star-5 {
+  height: 12px;
+  left: 53px;
+  position: absolute;
+  top: -2px;
+  width: 14px;
+}
+
+.element-stars .text-wrapper-6 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(0, 119, 182) 0%, rgb(3, 4, 94) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: var(--body-link-6-font-family);
+  font-size: var(--body-link-6-font-size);
+  font-style: var(--body-link-6-font-style);
+  font-weight: var(--body-link-6-font-weight);
+  height: 20px;
+  left: 68px;
+  letter-spacing: var(--body-link-6-letter-spacing);
+  line-height: var(--body-link-6-line-height);
+  position: absolute;
+  text-decoration: underline;
+  text-fill-color: transparent;
+  top: -8px;
+  white-space: nowrap;
+}
