@@ -1,0 +1,390 @@
+.icon-input-fields {
+  position: relative;
+}
+
+.icon-input-fields .frame-3 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  left: 0;
+  padding: 10px;
+  position: absolute;
+  top: 24px;
+  width: 300px;
+}
+
+.icon-input-fields .bx-search {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.icon-input-fields .default-2 {
+  font-family: var(--body-regular-5-font-family);
+  font-size: var(--body-regular-5-font-size);
+  font-style: var(--body-regular-5-font-style);
+  font-weight: var(--body-regular-5-font-weight);
+  letter-spacing: var(--body-regular-5-letter-spacing);
+  line-height: var(--body-regular-5-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.icon-input-fields .img {
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 24px;
+  width: 300px;
+}
+
+.icon-input-fields .default-3 {
+  color: #111111;
+  font-family: var(--body-semibold-6-font-family);
+  font-size: var(--body-semibold-6-font-size);
+  font-style: var(--body-semibold-6-font-style);
+  font-weight: var(--body-semibold-6-font-weight);
+  left: 0;
+  letter-spacing: var(--body-semibold-6-letter-spacing);
+  line-height: var(--body-semibold-6-line-height);
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.icon-input-fields .default-4 {
+  position: relative;
+}
+
+.icon-input-fields .default-5 {
+  color: #111111;
+  font-family: var(--body-semibold-6-font-family);
+  font-size: var(--body-semibold-6-font-size);
+  font-style: var(--body-semibold-6-font-style);
+  font-weight: var(--body-semibold-6-font-weight);
+  letter-spacing: var(--body-semibold-6-letter-spacing);
+  line-height: var(--body-semibold-6-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.icon-input-fields .frame-4 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  width: 300px;
+}
+
+.icon-input-fields .default-6 {
+  font-family: var(--body-small-regular-font-family);
+  font-size: var(--body-small-regular-font-size);
+  font-style: var(--body-small-regular-font-style);
+  font-weight: var(--body-small-regular-font-weight);
+  letter-spacing: var(--body-small-regular-letter-spacing);
+  line-height: var(--body-small-regular-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.icon-input-fields .invalid-input {
+  font-family: var(--body-regular-6-font-family);
+  font-size: var(--body-regular-6-font-size);
+  font-style: var(--body-regular-6-font-style);
+  font-weight: var(--body-regular-6-font-weight);
+  letter-spacing: var(--body-regular-6-letter-spacing);
+  line-height: var(--body-regular-6-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.icon-input-fields.state-active {
+  height: 69px;
+  width: 300px;
+}
+
+.icon-input-fields.state-disabled-info {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.icon-input-fields.state-disabled {
+  height: 68px;
+  width: 300px;
+}
+
+.icon-input-fields.state-focus {
+  height: 68px;
+  width: 300px;
+}
+
+.icon-input-fields.state-invalid {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.icon-input-fields.state-default {
+  height: 68px;
+  width: 300px;
+}
+
+.icon-input-fields.state-entered {
+  height: 68px;
+  width: 300px;
+}
+
+.icon-input-fields.state-active-info {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.icon-input-fields.state-valid {
+  height: 68px;
+  width: 300px;
+}
+
+.icon-input-fields.state-active .frame-3 {
+  background-color: #ffffff;
+  border-color: #abaab4;
+}
+
+.icon-input-fields.state-disabled-info .frame-3 {
+  background-color: #ffffff;
+  border-color: #abaab4;
+}
+
+.icon-input-fields.state-disabled .frame-3 {
+  background-color: #d4d4de;
+  border-color: #abaab4;
+}
+
+.icon-input-fields.state-focus .frame-3 {
+  background-color: #ffffff;
+  border-color: var(--colorsgreyscale-500);
+}
+
+.icon-input-fields.state-invalid .frame-3 {
+  background-color: #ffffff;
+  border-color: #abaab4;
+}
+
+.icon-input-fields.state-default .frame-3 {
+  background-color: #ffffff;
+  border-color: #abaab4;
+}
+
+.icon-input-fields.state-entered .frame-3 {
+  background-color: #ffffff;
+  border-color: #abaab4;
+}
+
+.icon-input-fields.state-active-info .frame-3 {
+  background-color: #ffffff;
+  border-color: #abaab4;
+}
+
+.icon-input-fields.state-valid .frame-3 {
+  background-color: #ffffff;
+  border-color: #74a76b;
+}
+
+.icon-input-fields.state-active .default-2 {
+  color: #abaab4;
+}
+
+.icon-input-fields.state-disabled-info .default-2 {
+  color: #abaab4;
+}
+
+.icon-input-fields.state-disabled .default-2 {
+  color: var(--colorsgreyscale-500);
+}
+
+.icon-input-fields.state-focus .default-2 {
+  color: #abaab4;
+}
+
+.icon-input-fields.state-invalid .default-2 {
+  color: #abaab4;
+}
+
+.icon-input-fields.state-default .default-2 {
+  color: #abaab4;
+}
+
+.icon-input-fields.state-entered .default-2 {
+  color: #111111;
+}
+
+.icon-input-fields.state-active-info .default-2 {
+  color: #abaab4;
+}
+
+.icon-input-fields.state-valid .default-2 {
+  color: #111111;
+}
+
+.icon-input-fields.state-disabled-info .default-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  justify-content: center;
+}
+
+.icon-input-fields.state-invalid .default-4 {
+  color: #111111;
+  font-family: var(--body-semibold-6-font-family);
+  font-size: var(--body-semibold-6-font-size);
+  font-style: var(--body-semibold-6-font-style);
+  font-weight: var(--body-semibold-6-font-weight);
+  letter-spacing: var(--body-semibold-6-letter-spacing);
+  line-height: var(--body-semibold-6-line-height);
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.icon-input-fields.state-active-info .default-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  justify-content: center;
+}
+
+.icon-input-fields.state-active .frame-4 {
+  background-color: #ffffff;
+  border-color: #abaab4;
+}
+
+.icon-input-fields.state-disabled-info .frame-4 {
+  background-color: #d4d4de;
+  border-color: #abaab4;
+}
+
+.icon-input-fields.state-disabled .frame-4 {
+  background-color: #ffffff;
+  border-color: #abaab4;
+}
+
+.icon-input-fields.state-focus .frame-4 {
+  background-color: #ffffff;
+  border-color: #abaab4;
+}
+
+.icon-input-fields.state-invalid .frame-4 {
+  background-color: #ffffff;
+  border-color: #a73131;
+}
+
+.icon-input-fields.state-default .frame-4 {
+  background-color: #ffffff;
+  border-color: #abaab4;
+}
+
+.icon-input-fields.state-entered .frame-4 {
+  background-color: #ffffff;
+  border-color: #abaab4;
+}
+
+.icon-input-fields.state-active-info .frame-4 {
+  background-color: #ffffff;
+  border-color: #abaab4;
+}
+
+.icon-input-fields.state-valid .frame-4 {
+  background-color: #ffffff;
+  border-color: #abaab4;
+}
+
+.icon-input-fields.state-active .default-6 {
+  color: #111111;
+}
+
+.icon-input-fields.state-disabled-info .default-6 {
+  color: var(--colorsgreyscale-500);
+}
+
+.icon-input-fields.state-disabled .default-6 {
+  color: #111111;
+}
+
+.icon-input-fields.state-focus .default-6 {
+  color: #111111;
+}
+
+.icon-input-fields.state-invalid .default-6 {
+  color: #111111;
+}
+
+.icon-input-fields.state-default .default-6 {
+  color: #111111;
+}
+
+.icon-input-fields.state-entered .default-6 {
+  color: #111111;
+}
+
+.icon-input-fields.state-active-info .default-6 {
+  color: #111111;
+}
+
+.icon-input-fields.state-valid .default-6 {
+  color: #111111;
+}
+
+.icon-input-fields.state-active .invalid-input {
+  color: var(--colorsgreyscale-500);
+}
+
+.icon-input-fields.state-disabled-info .invalid-input {
+  color: var(--colorsgreyscale-500);
+}
+
+.icon-input-fields.state-disabled .invalid-input {
+  color: var(--colorsgreyscale-500);
+}
+
+.icon-input-fields.state-focus .invalid-input {
+  color: var(--colorsgreyscale-500);
+}
+
+.icon-input-fields.state-invalid .invalid-input {
+  color: #a73131;
+}
+
+.icon-input-fields.state-default .invalid-input {
+  color: var(--colorsgreyscale-500);
+}
+
+.icon-input-fields.state-entered .invalid-input {
+  color: var(--colorsgreyscale-500);
+}
+
+.icon-input-fields.state-active-info .invalid-input {
+  color: var(--colorsgreyscale-500);
+}
+
+.icon-input-fields.state-valid .invalid-input {
+  color: var(--colorsgreyscale-500);
+}

@@ -1,0 +1,1 @@
+export { PropertyTopic } from "./PropertyTopic";

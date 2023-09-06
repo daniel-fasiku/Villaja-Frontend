@@ -1,0 +1,306 @@
+.settings {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.settings .div-2 {
+  background-color: #ffffff;
+  height: 1024px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.settings .top-bar-seller-side-instance {
+  left: 1px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.settings .bottom-directory-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 880px !important;
+}
+
+.settings .frame-wrapper {
+  height: 48px;
+  left: 416px;
+  position: absolute;
+  top: 96px;
+  width: 928px;
+}
+
+.settings .frame-5 {
+  height: 34px;
+  left: 8px;
+  position: relative;
+  top: 7px;
+  width: 182px;
+}
+
+.settings .text-wrapper-10 {
+  color: #111111;
+  font-family: var(--headings-desktop-h4-font-family);
+  font-size: var(--headings-desktop-h4-font-size);
+  font-style: var(--headings-desktop-h4-font-style);
+  font-weight: var(--headings-desktop-h4-font-weight);
+  height: 34px;
+  left: 0;
+  letter-spacing: var(--headings-desktop-h4-letter-spacing);
+  line-height: var(--headings-desktop-h4-line-height);
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.settings .group-3 {
+  height: 366px;
+  left: 416px;
+  position: absolute;
+  top: 178px;
+  width: 610px;
+}
+
+.settings .icon-input-fields-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 46px !important;
+  width: 288px !important;
+}
+
+.settings .design-component-instance-node {
+  top: 25px !important;
+  width: 288px !important;
+}
+
+.settings .icon-input-fields-2 {
+  left: 320px !important;
+  position: absolute !important;
+  top: 46px !important;
+  width: 288px !important;
+}
+
+.settings .icon-input-fields-3 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 130px !important;
+  width: 288px !important;
+}
+
+.settings .icon-input-fields-4 {
+  left: 320px !important;
+  position: absolute !important;
+  top: 130px !important;
+  width: 288px !important;
+}
+
+.settings .icon-input-fields-5 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 214px !important;
+  width: 288px !important;
+}
+
+.settings .icon-input-fields-6 {
+  left: 320px !important;
+  position: absolute !important;
+  top: 214px !important;
+  width: 288px !important;
+}
+
+.settings .icon-input-fields-7 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 298px !important;
+  width: 288px !important;
+}
+
+.settings .text-wrapper-11 {
+  color: #000000;
+  font-family: var(--body-semibold-5-font-family);
+  font-size: var(--body-semibold-5-font-size);
+  font-style: var(--body-semibold-5-font-style);
+  font-weight: var(--body-semibold-5-font-weight);
+  height: 22px;
+  left: 0;
+  letter-spacing: var(--body-semibold-5-letter-spacing);
+  line-height: var(--body-semibold-5-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.settings .group-4 {
+  height: 187px;
+  left: 416px;
+  position: absolute;
+  top: 587px;
+  width: 608px;
+}
+
+.settings .icon-input-fields-8 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 35px !important;
+  width: 288px !important;
+}
+
+.settings .icon-input-fields-9 {
+  left: 320px !important;
+  position: absolute !important;
+  top: 35px !important;
+  width: 286px !important;
+}
+
+.settings .icon-input-fields-10 {
+  top: 25px !important;
+  width: 286px !important;
+}
+
+.settings .icon-input-fields-11 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 119px !important;
+  width: 288px !important;
+}
+
+.settings .frame-6 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px #34578c1f;
+  height: 312px;
+  left: 1056px;
+  position: absolute;
+  top: 176px;
+  width: 288px;
+}
+
+.settings .media-placeholder {
+  border-radius: 72px !important;
+  height: 114px !important;
+  left: 87px !important;
+  position: absolute !important;
+  top: 67px !important;
+  width: 114px !important;
+}
+
+.settings .media-placeholder-instance {
+  height: 28px !important;
+  left: 43px !important;
+  position: absolute !important;
+  top: 43px !important;
+  width: 28px !important;
+}
+
+.settings .text-wrapper-12 {
+  color: #000000;
+  font-family: var(--body-semibold-5-font-family);
+  font-size: var(--body-semibold-5-font-size);
+  font-style: var(--body-semibold-5-font-style);
+  font-weight: var(--body-semibold-5-font-weight);
+  height: 22px;
+  left: 24px;
+  letter-spacing: var(--body-semibold-5-letter-spacing);
+  line-height: var(--body-semibold-5-line-height);
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+}
+
+.settings .buttons-6 {
+  height: 32px !important;
+  left: 75px !important;
+  padding: 8px 0px !important;
+  position: absolute !important;
+  top: 213px !important;
+  width: 140px !important;
+}
+
+.settings .buttons-7 {
+  margin-bottom: -2px !important;
+  margin-top: -4px !important;
+}
+
+.settings .buttons-8 {
+  font-family: var(--body-semibold-5-font-family) !important;
+  font-size: var(--body-semibold-5-font-size) !important;
+  font-style: var(--body-semibold-5-font-style) !important;
+  font-weight: var(--body-semibold-5-font-weight) !important;
+  letter-spacing: var(--body-semibold-5-letter-spacing) !important;
+  line-height: var(--body-semibold-5-line-height) !important;
+  margin-bottom: -1px !important;
+  margin-top: -5px !important;
+}
+
+.settings .buttons-9 {
+  border: unset !important;
+  border-color: unset !important;
+  border-image: unset !important;
+  height: 32px !important;
+  left: 75px !important;
+  padding: 8px 0px !important;
+  position: absolute !important;
+  top: 256px !important;
+  width: 140px !important;
+}
+
+.settings .group-5 {
+  background-color: #f1f1f5;
+  height: 728px;
+  left: 96px;
+  position: absolute;
+  top: 96px;
+  width: 288px;
+}
+
+.settings .side-bar-comps {
+  left: 0 !important;
+  position: absolute !important;
+  top: 680px !important;
+}
+
+.settings .property-1-category-3-active {
+  left: 0 !important;
+  position: absolute !important;
+  top: 288px !important;
+}
+
+.settings .property-1-topic {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.settings .property-topic-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 48px !important;
+}
+
+.settings .property-1-topic-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 96px !important;
+}
+
+.settings .side-bar-comps-2 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 144px !important;
+}
+
+.settings .side-bar-comps-3 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 192px !important;
+}
+
+.settings .side-bar-comps-4 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 240px !important;
+}
