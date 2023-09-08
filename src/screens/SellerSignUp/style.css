@@ -1,0 +1,154 @@
+.seller-sign-up {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.seller-sign-up .div-2 {
+  background-color: #ffffff;
+  height: 1322px;
+  position: relative;
+  width: 1440px;
+}
+
+.seller-sign-up .bottom-directory-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 1178px !important;
+}
+
+.seller-sign-up .text-wrapper-9 {
+  color: #000000;
+  font-family: var(--headings-desktop-h4-font-family);
+  font-size: var(--headings-desktop-h4-font-size);
+  font-style: var(--headings-desktop-h4-font-style);
+  font-weight: var(--headings-desktop-h4-font-weight);
+  height: 26px;
+  left: 97px;
+  letter-spacing: var(--headings-desktop-h4-letter-spacing);
+  line-height: var(--headings-desktop-h4-line-height);
+  position: absolute;
+  top: 95px;
+  white-space: nowrap;
+  width: 210px;
+}
+
+.seller-sign-up .icon-input-fields-instance {
+  left: 97px !important;
+  position: absolute !important;
+  top: 212px !important;
+  width: 608px !important;
+}
+
+.seller-sign-up .design-component-instance-node {
+  top: 25px !important;
+  width: 608px !important;
+}
+
+.seller-sign-up .text-wrapper-10 {
+  color: #000000;
+  font-family: var(--body-semibold-5-font-family);
+  font-size: var(--body-semibold-5-font-size);
+  font-style: var(--body-semibold-5-font-style);
+  font-weight: var(--body-semibold-5-font-weight);
+  height: 22px;
+  left: 97px;
+  letter-spacing: var(--body-semibold-5-letter-spacing);
+  line-height: var(--body-semibold-5-line-height);
+  position: absolute;
+  top: 165px;
+  white-space: nowrap;
+}
+
+.seller-sign-up .property-1-inactive-filter {
+  background-color: var(--colorsgreyscale-100) !important;
+  left: 97px !important;
+  position: absolute !important;
+  top: 957px !important;
+  width: 433px !important;
+}
+
+.seller-sign-up .group-4 {
+  height: 142px;
+  left: 97px;
+  position: absolute;
+  top: 296px;
+  width: 406px;
+}
+
+.seller-sign-up .select-payment-method {
+  left: 0 !important;
+  position: absolute !important;
+  top: 46px !important;
+}
+
+.seller-sign-up .text-wrapper-11 {
+  color: #000000;
+  font-family: var(--body-semibold-5-font-family);
+  font-size: var(--body-semibold-5-font-size);
+  font-style: var(--body-semibold-5-font-style);
+  font-weight: var(--body-semibold-5-font-weight);
+  height: 22px;
+  left: 0;
+  letter-spacing: var(--body-semibold-5-letter-spacing);
+  line-height: var(--body-semibold-5-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.seller-sign-up .icon-input-fields-2 {
+  left: 97px !important;
+  position: absolute !important;
+  top: 454px !important;
+  width: 608px !important;
+}
+
+.seller-sign-up .icon-input-fields-3 {
+  left: 97px !important;
+  position: absolute !important;
+  top: 538px !important;
+  width: 608px !important;
+}
+
+.seller-sign-up .icon-input-fields-4 {
+  left: 97px !important;
+  position: absolute !important;
+  top: 622px !important;
+  width: 608px !important;
+}
+
+.seller-sign-up .icon-input-fields-5 {
+  left: 97px !important;
+  position: absolute !important;
+  top: 789px !important;
+  width: 608px !important;
+}
+
+.seller-sign-up .icon-input-fields-6 {
+  left: 97px !important;
+  position: absolute !important;
+  top: 706px !important;
+  width: 608px !important;
+}
+
+.seller-sign-up .icon-input-fields-7 {
+  left: 97px !important;
+  position: absolute !important;
+  top: 873px !important;
+  width: 608px !important;
+}
+
+.seller-sign-up .buttons-7 {
+  left: 96px !important;
+  position: absolute !important;
+  top: 1063px !important;
+}
+
+.seller-sign-up .top-bar-seller-side-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}

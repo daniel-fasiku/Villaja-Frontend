@@ -1,0 +1,16 @@
+.property-radio {
+  height: 40px;
+  width: 40px;
+}
+
+.property-radio .frame-6 {
+  border: 2px solid;
+  border-color: transparent;
+  border-image: radial-gradient(rgba(255, 255, 255, 0), rgba(52, 87.2, 140, 0.2)) 1;
+  border-radius: 16px;
+  height: 24px;
+  left: 8px;
+  position: relative;
+  top: 8px;
+  width: 24px;
+}

@@ -1,0 +1,1 @@
+export { IconMapPin } from "./IconMapPin";

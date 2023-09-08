@@ -1,0 +1,17 @@
+.select-payment {
+  height: 96px;
+  position: relative;
+  width: 404px;
+}
+
+.select-payment .checkout-selection-comps {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.select-payment .checkout-selection-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 48px !important;
+}

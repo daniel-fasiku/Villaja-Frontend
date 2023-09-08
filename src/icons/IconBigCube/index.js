@@ -1,0 +1,1 @@
+export { IconBigCube } from "./IconBigCube";
