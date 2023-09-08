@@ -1,0 +1,26 @@
+.property-radio {
+  height: 40px;
+  width: 40px;
+}
+
+.property-radio .overlap-group-4 {
+  border-radius: 16px;
+  height: 24px;
+  left: 8px;
+  position: relative;
+  top: 8px;
+  width: 24px;
+}
+
+.property-radio .frame-11 {
+  background: linear-gradient(180deg, rgb(0, 180, 216) 0%, rgb(0, 119, 182) 100%);
+  border: 2px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(0, 180, 216), rgb(0, 119, 182)) 1;
+  border-radius: 16px;
+  height: 14px;
+  left: 5px;
+  position: relative;
+  top: 5px;
+  width: 14px;
+}

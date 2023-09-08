@@ -1,0 +1,216 @@
+.billing-info .overlap-group-6 {
+  height: 420px;
+  position: relative;
+  top: -1px;
+  width: 610px;
+}
+
+.billing-info .group-3 {
+  height: 419px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 610px;
+}
+
+.billing-info .icon-input-fields-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 99px !important;
+  width: 288px !important;
+}
+
+.billing-info .icon-input-fields-3 {
+  top: 25px !important;
+  width: 288px !important;
+}
+
+.billing-info .icon-input-fields-4 {
+  left: 320px !important;
+  position: absolute !important;
+  top: 99px !important;
+  width: 288px !important;
+}
+
+.billing-info .icon-input-fields-5 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 183px !important;
+  width: 288px !important;
+}
+
+.billing-info .icon-input-fields-6 {
+  left: 320px !important;
+  position: absolute !important;
+  top: 183px !important;
+  width: 288px !important;
+}
+
+.billing-info .icon-input-fields-7 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 267px !important;
+  width: 288px !important;
+}
+
+.billing-info .icon-input-fields-8 {
+  left: 320px !important;
+  position: absolute !important;
+  top: 267px !important;
+  width: 208px !important;
+}
+
+.billing-info .icon-input-fields-9 {
+  top: 25px !important;
+  width: 208px !important;
+}
+
+.billing-info .icon-input-fields-10 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 351px !important;
+  width: 288px !important;
+}
+
+.billing-info .icon-input-fields-11 {
+  left: 320px !important;
+  position: absolute !important;
+  top: 351px !important;
+  width: 208px !important;
+}
+
+.billing-info .text-wrapper-18 {
+  color: #000000;
+  font-family: var(--body-semibold-5-font-family);
+  font-size: var(--body-semibold-5-font-size);
+  font-style: var(--body-semibold-5-font-style);
+  font-weight: var(--body-semibold-5-font-weight);
+  height: 22px;
+  left: 0;
+  letter-spacing: var(--body-semibold-5-letter-spacing);
+  line-height: var(--body-semibold-5-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.billing-info .icon-input-fields-12 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 100px !important;
+  width: 288px !important;
+}
+
+.billing-info .icon-input-fields-13 {
+  left: 320px !important;
+  position: absolute !important;
+  top: 100px !important;
+  width: 288px !important;
+}
+
+.billing-info .icon-input-fields-14 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 184px !important;
+  width: 288px !important;
+}
+
+.billing-info .icon-input-fields-15 {
+  left: 320px !important;
+  position: absolute !important;
+  top: 184px !important;
+  width: 288px !important;
+}
+
+.billing-info .icon-input-fields-16 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 268px !important;
+  width: 288px !important;
+}
+
+.billing-info .icon-input-fields-17 {
+  left: 320px !important;
+  position: absolute !important;
+  top: 268px !important;
+  width: 288px !important;
+}
+
+.billing-info .icon-input-fields-18 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 352px !important;
+  width: 288px !important;
+}
+
+.billing-info .icon-input-fields-19 {
+  left: 320px !important;
+  position: absolute !important;
+  top: 352px !important;
+  width: 288px !important;
+}
+
+.billing-info .same-as-shipping {
+  background-color: var(--colorsgreyscale-100) !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 41px !important;
+}
+
+.billing-info .overlap-group-7 {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: -1px;
+  width: 124px;
+}
+
+.billing-info .group-4 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 124px;
+}
+
+.billing-info .same-as-shipping-2 {
+  align-items: center;
+  background-color: var(--colorsgreyscale-100);
+  display: flex;
+  gap: 8px;
+  left: 0;
+  padding: 4px 12px 4px 8px;
+  position: absolute;
+  top: 40px;
+  width: 288px;
+}
+
+.billing-info .frame-15 {
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.billing-info .filter-name-2 {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-regular-4-font-family);
+  font-size: var(--body-regular-4-font-size);
+  font-style: var(--body-regular-4-font-style);
+  font-weight: var(--body-regular-4-font-weight);
+  letter-spacing: var(--body-regular-4-letter-spacing);
+  line-height: var(--body-regular-4-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.billing-info.group-48 {
+  height: 419px;
+  width: 608px;
+}
+
+.billing-info.group-49 {
+  height: 88px;
+  position: relative;
+  width: 288px;
+}

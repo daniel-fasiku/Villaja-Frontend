@@ -1,0 +1,60 @@
+.checkout-selection {
+  align-items: center;
+  background-color: var(--colorsgreyscale-100);
+  display: flex;
+  gap: 8px;
+  padding: 4px 8px;
+  position: relative;
+  width: 404px;
+}
+
+.checkout-selection .side-bar-comps {
+  position: relative !important;
+}
+
+.checkout-selection .side-bar-comps-2 {
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.checkout-selection .overlap-group-5 {
+  border-radius: 20px;
+  height: 40px;
+  position: relative;
+}
+
+.checkout-selection .frame-12 {
+  border: 2px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(0, 180, 216), rgb(0, 119, 182)) 1;
+  border-radius: 16px;
+  height: 24px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 24px;
+}
+
+.checkout-selection .ellipse-3 {
+  background-color: var(--hover-pad);
+  border-radius: 20px;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.checkout-selection .default-9 {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-regular-4-font-family);
+  font-size: var(--body-regular-4-font-size);
+  font-style: var(--body-regular-4-font-style);
+  font-weight: var(--body-regular-4-font-weight);
+  letter-spacing: var(--body-regular-4-letter-spacing);
+  line-height: var(--body-regular-4-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

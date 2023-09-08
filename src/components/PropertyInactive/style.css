@@ -1,0 +1,40 @@
+.property-inactive {
+  align-items: center;
+  background-color: var(--icy-gray);
+  display: flex;
+  gap: 8px;
+  padding: 4px 8px;
+  position: relative;
+  width: 288px;
+}
+
+.property-inactive .frame-13 {
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.property-inactive .frame-14 {
+  border: 2px solid;
+  border-color: transparent;
+  border-image: radial-gradient(rgba(255, 255, 255, 0), rgba(52, 87.2, 140, 0.2)) 1;
+  border-radius: 4px;
+  height: 24px;
+  left: 8px;
+  position: relative;
+  top: 8px;
+  width: 24px;
+}
+
+.property-inactive .filter-name {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-regular-4-font-family);
+  font-size: var(--body-regular-4-font-size);
+  font-style: var(--body-regular-4-font-style);
+  font-weight: var(--body-regular-4-font-weight);
+  letter-spacing: var(--body-regular-4-letter-spacing);
+  line-height: var(--body-regular-4-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
