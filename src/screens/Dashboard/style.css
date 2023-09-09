@@ -1,0 +1,372 @@
+.dashboard {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.dashboard .div-2 {
+  background-color: #ffffff;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.dashboard .overlap-2 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 8px 12px #34578c1f;
+  height: 304px;
+  left: 416px;
+  position: absolute;
+  top: 168px;
+  width: 501px;
+}
+
+.dashboard .graph {
+  background-color: var(--icy-gray);
+  border-radius: 8px;
+  height: 219px;
+  left: 24px;
+  overflow: hidden;
+  position: absolute;
+  top: 61px;
+  width: 453px;
+}
+
+.dashboard .amazon-seller {
+  height: 210px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 450px;
+}
+
+.dashboard .text-wrapper-9 {
+  color: #000000;
+  font-family: var(--headings-desktop-h5-font-family);
+  font-size: var(--headings-desktop-h5-font-size);
+  font-style: var(--headings-desktop-h5-font-style);
+  font-weight: var(--headings-desktop-h5-font-weight);
+  height: 21px;
+  left: 24px;
+  letter-spacing: var(--headings-desktop-h5-letter-spacing);
+  line-height: var(--headings-desktop-h5-line-height);
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+  width: 200px;
+}
+
+.dashboard .frame-4 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px #34578c1f;
+  height: 144px;
+  left: 735px;
+  position: absolute;
+  top: 680px;
+  width: 287px;
+}
+
+.dashboard .div-wrapper {
+  height: 34px;
+  left: 24px;
+  position: absolute;
+  top: 69px;
+  width: 214px;
+}
+
+.dashboard .text-wrapper-10 {
+  color: #111111;
+  font-family: var(--headings-desktop-h4-font-family);
+  font-size: var(--headings-desktop-h4-font-size);
+  font-style: var(--headings-desktop-h4-font-style);
+  font-weight: var(--headings-desktop-h4-font-weight);
+  height: 34px;
+  left: 0;
+  letter-spacing: var(--headings-desktop-h4-letter-spacing);
+  line-height: var(--headings-desktop-h4-line-height);
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-11 {
+  color: var(--colorsgreyscale-500);
+  font-family: var(--headings-desktop-h5-font-family);
+  font-size: var(--headings-desktop-h5-font-size);
+  font-style: var(--headings-desktop-h5-font-style);
+  font-weight: var(--headings-desktop-h5-font-weight);
+  height: 21px;
+  left: 24px;
+  letter-spacing: var(--headings-desktop-h5-letter-spacing);
+  line-height: var(--headings-desktop-h5-line-height);
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.dashboard .img {
+  height: 24px;
+  left: 239px;
+  position: absolute;
+  top: 23px;
+  width: 24px;
+}
+
+.dashboard .frame-5 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px #34578c1f;
+  height: 144px;
+  left: 1054px;
+  position: absolute;
+  top: 680px;
+  width: 287px;
+}
+
+.dashboard .group-wrapper {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 8px 12px #34578c1f;
+  height: 304px;
+  left: 949px;
+  position: absolute;
+  top: 168px;
+  width: 395px;
+}
+
+.dashboard .group-4 {
+  height: 215px;
+  left: 28px;
+  position: relative;
+  top: 46px;
+  width: 223px;
+}
+
+.dashboard .frame-6 {
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 45px;
+  width: 214px;
+}
+
+.dashboard .frame-7 {
+  height: 34px;
+  left: 1px;
+  position: absolute;
+  top: 181px;
+  width: 214px;
+}
+
+.dashboard .text-wrapper-12 {
+  color: var(--colorsgreyscale-500);
+  font-family: var(--headings-desktop-h5-font-family);
+  font-size: var(--headings-desktop-h5-font-size);
+  font-style: var(--headings-desktop-h5-font-style);
+  font-weight: var(--headings-desktop-h5-font-weight);
+  height: 21px;
+  left: 0;
+  letter-spacing: var(--headings-desktop-h5-letter-spacing);
+  line-height: var(--headings-desktop-h5-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 200px;
+}
+
+.dashboard .text-wrapper-13 {
+  color: var(--colorsgreyscale-500);
+  font-family: var(--headings-desktop-h5-font-family);
+  font-size: var(--headings-desktop-h5-font-size);
+  font-style: var(--headings-desktop-h5-font-style);
+  font-weight: var(--headings-desktop-h5-font-weight);
+  height: 26px;
+  left: 1px;
+  letter-spacing: var(--headings-desktop-h5-letter-spacing);
+  line-height: var(--headings-desktop-h5-line-height);
+  position: absolute;
+  top: 131px;
+  white-space: nowrap;
+}
+
+.dashboard .bottom-directory-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 880px !important;
+}
+
+.dashboard .overlap-3 {
+  background-color: #ffffff;
+  box-shadow: 0px 4px 8px #34578c1f;
+  height: 144px;
+  left: 416px;
+  position: absolute;
+  top: 504px;
+  width: 928px;
+}
+
+.dashboard .design-component-instance-node {
+  left: 608px !important;
+  position: absolute !important;
+  top: 52px !important;
+}
+
+.dashboard .remove-red-eye {
+  height: 24px;
+  left: 189px;
+  position: absolute;
+  top: 22px;
+  width: 24px;
+}
+
+.dashboard .frame-8 {
+  height: 34px;
+  left: 24px;
+  position: absolute;
+  top: 62px;
+  width: 258px;
+}
+
+.dashboard .text-wrapper-14 {
+  color: #111111;
+  font-family: var(--headings-desktop-h3-font-family);
+  font-size: var(--headings-desktop-h3-font-size);
+  font-style: var(--headings-desktop-h3-font-style);
+  font-weight: var(--headings-desktop-h3-font-weight);
+  height: 42px;
+  left: 0;
+  letter-spacing: var(--headings-desktop-h3-letter-spacing);
+  line-height: var(--headings-desktop-h3-line-height);
+  position: absolute;
+  top: -5px;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-15 {
+  color: var(--colorsgreyscale-500);
+  font-family: var(--headings-desktop-h5-font-family);
+  font-size: var(--headings-desktop-h5-font-size);
+  font-style: var(--headings-desktop-h5-font-style);
+  font-weight: var(--headings-desktop-h5-font-weight);
+  height: 21px;
+  left: 24px;
+  letter-spacing: var(--headings-desktop-h5-letter-spacing);
+  line-height: var(--headings-desktop-h5-line-height);
+  position: absolute;
+  top: 24px;
+  white-space: nowrap;
+  width: 157px;
+}
+
+.dashboard .group-5 {
+  height: 48px;
+  left: 416px;
+  position: absolute;
+  top: 96px;
+  width: 928px;
+}
+
+.dashboard .frame-9 {
+  height: 34px;
+  left: 8px;
+  position: absolute;
+  top: 7px;
+  width: 182px;
+}
+
+.dashboard .frame-10 {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  left: 667px;
+  position: absolute;
+  top: 4px;
+}
+
+.dashboard .text-wrapper-16 {
+  color: #111111;
+  font-family: var(--body-link-4-font-family);
+  font-size: var(--body-link-4-font-size);
+  font-style: var(--body-link-4-font-style);
+  font-weight: var(--body-link-4-font-weight);
+  letter-spacing: var(--body-link-4-letter-spacing);
+  line-height: var(--body-link-4-line-height);
+  position: relative;
+  text-align: right;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard .frame-11 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px #34578c1f;
+  height: 144px;
+  left: 416px;
+  position: absolute;
+  top: 680px;
+  width: 287px;
+}
+
+.dashboard .group-6 {
+  background-color: #f1f1f5;
+  height: 728px;
+  left: 96px;
+  position: absolute;
+  top: 96px;
+  width: 288px;
+}
+
+.dashboard .side-bar-comps {
+  left: 0 !important;
+  position: absolute !important;
+  top: 680px !important;
+}
+
+.dashboard .property-1-topic {
+  left: 0 !important;
+  position: absolute !important;
+  top: 288px !important;
+}
+
+.dashboard .design-component-instance-node-2 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.dashboard .property-topic-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 48px !important;
+}
+
+.dashboard .property-1-topic-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 96px !important;
+}
+
+.dashboard .side-bar-comps-2 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 144px !important;
+}
+
+.dashboard .side-bar-comps-3 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 192px !important;
+}
+
+.dashboard .side-bar-comps-4 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 240px !important;
+}

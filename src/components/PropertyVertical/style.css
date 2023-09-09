@@ -1,0 +1,28 @@
+.property-vertical {
+  align-items: center;
+  background-color: var(--icy-gray);
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  position: relative;
+  width: 184px;
+}
+
+.property-vertical .text {
+  color: var(--colorsgreyscale-600);
+  flex: 1;
+  font-family: var(--body-regular-4-font-family);
+  font-size: var(--body-regular-4-font-size);
+  font-style: var(--body-regular-4-font-style);
+  font-weight: var(--body-regular-4-font-weight);
+  letter-spacing: var(--body-regular-4-letter-spacing);
+  line-height: var(--body-regular-4-line-height);
+  margin-top: -2px;
+  position: relative;
+}
+
+.property-vertical .icons {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}

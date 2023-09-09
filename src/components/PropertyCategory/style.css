@@ -1,0 +1,20 @@
+.property-category {
+  background: linear-gradient(180deg, rgb(0, 180, 216) 0%, rgb(0, 119, 182) 100%);
+  height: 48px;
+  position: relative;
+  width: 288px;
+}
+
+.property-category .category-2 {
+  color: var(--colorsgreyscale-100);
+  font-family: var(--body-semibold-4-font-family);
+  font-size: var(--body-semibold-4-font-size);
+  font-style: var(--body-semibold-4-font-style);
+  font-weight: var(--body-semibold-4-font-weight);
+  left: 48px;
+  letter-spacing: var(--body-semibold-4-letter-spacing);
+  line-height: var(--body-semibold-4-line-height);
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
