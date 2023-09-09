@@ -1,0 +1,390 @@
+.icon-input-fields {
+  position: relative;
+}
+
+.icon-input-fields .frame-9 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  left: 0;
+  padding: 10px;
+  position: absolute;
+  top: 24px;
+  width: 300px;
+}
+
+.icon-input-fields .bx-search-2 {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.icon-input-fields .default-3 {
+  font-family: var(--body-regular-5-font-family);
+  font-size: var(--body-regular-5-font-size);
+  font-style: var(--body-regular-5-font-style);
+  font-weight: var(--body-regular-5-font-weight);
+  letter-spacing: var(--body-regular-5-letter-spacing);
+  line-height: var(--body-regular-5-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.icon-input-fields .frame-10 {
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 24px;
+  width: 300px;
+}
+
+.icon-input-fields .default-4 {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-semibold-6-font-family);
+  font-size: var(--body-semibold-6-font-size);
+  font-style: var(--body-semibold-6-font-style);
+  font-weight: var(--body-semibold-6-font-weight);
+  left: 0;
+  letter-spacing: var(--body-semibold-6-letter-spacing);
+  line-height: var(--body-semibold-6-line-height);
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.icon-input-fields .default-5 {
+  position: relative;
+}
+
+.icon-input-fields .default-6 {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-semibold-6-font-family);
+  font-size: var(--body-semibold-6-font-size);
+  font-style: var(--body-semibold-6-font-style);
+  font-weight: var(--body-semibold-6-font-weight);
+  letter-spacing: var(--body-semibold-6-letter-spacing);
+  line-height: var(--body-semibold-6-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.icon-input-fields .frame-11 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  width: 300px;
+}
+
+.icon-input-fields .default-7 {
+  font-family: var(--body-small-regular-font-family);
+  font-size: var(--body-small-regular-font-size);
+  font-style: var(--body-small-regular-font-style);
+  font-weight: var(--body-small-regular-font-weight);
+  letter-spacing: var(--body-small-regular-letter-spacing);
+  line-height: var(--body-small-regular-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.icon-input-fields .invalid-input {
+  font-family: var(--body-regular-6-font-family);
+  font-size: var(--body-regular-6-font-size);
+  font-style: var(--body-regular-6-font-style);
+  font-weight: var(--body-regular-6-font-weight);
+  letter-spacing: var(--body-regular-6-letter-spacing);
+  line-height: var(--body-regular-6-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.icon-input-fields.state-active {
+  height: 69px;
+  width: 300px;
+}
+
+.icon-input-fields.state-disabled-info {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.icon-input-fields.state-disabled {
+  height: 68px;
+  width: 300px;
+}
+
+.icon-input-fields.state-focus {
+  height: 68px;
+  width: 300px;
+}
+
+.icon-input-fields.state-invalid {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.icon-input-fields.state-default {
+  height: 68px;
+  width: 300px;
+}
+
+.icon-input-fields.state-entered {
+  height: 68px;
+  width: 300px;
+}
+
+.icon-input-fields.state-active-info {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.icon-input-fields.state-valid {
+  height: 68px;
+  width: 300px;
+}
+
+.icon-input-fields.state-active .frame-9 {
+  background-color: var(--colorsgreyscale-100);
+  border-color: var(--colorsgreyscale-400);
+}
+
+.icon-input-fields.state-disabled-info .frame-9 {
+  background-color: var(--colorsgreyscale-100);
+  border-color: var(--colorsgreyscale-400);
+}
+
+.icon-input-fields.state-disabled .frame-9 {
+  background-color: var(--colorsgreyscale-300);
+  border-color: var(--colorsgreyscale-400);
+}
+
+.icon-input-fields.state-focus .frame-9 {
+  background-color: var(--colorsgreyscale-100);
+  border-color: var(--colorsgreyscale-500);
+}
+
+.icon-input-fields.state-invalid .frame-9 {
+  background-color: var(--colorsgreyscale-100);
+  border-color: var(--colorsgreyscale-400);
+}
+
+.icon-input-fields.state-default .frame-9 {
+  background-color: var(--colorsgreyscale-100);
+  border-color: var(--colorsgreyscale-400);
+}
+
+.icon-input-fields.state-entered .frame-9 {
+  background-color: var(--colorsgreyscale-100);
+  border-color: var(--colorsgreyscale-400);
+}
+
+.icon-input-fields.state-active-info .frame-9 {
+  background-color: var(--colorsgreyscale-100);
+  border-color: var(--colorsgreyscale-400);
+}
+
+.icon-input-fields.state-valid .frame-9 {
+  background-color: var(--colorsgreyscale-100);
+  border-color: #74a76b;
+}
+
+.icon-input-fields.state-active .default-3 {
+  color: var(--colorsgreyscale-400);
+}
+
+.icon-input-fields.state-disabled-info .default-3 {
+  color: var(--colorsgreyscale-400);
+}
+
+.icon-input-fields.state-disabled .default-3 {
+  color: var(--colorsgreyscale-500);
+}
+
+.icon-input-fields.state-focus .default-3 {
+  color: var(--colorsgreyscale-400);
+}
+
+.icon-input-fields.state-invalid .default-3 {
+  color: var(--colorsgreyscale-400);
+}
+
+.icon-input-fields.state-default .default-3 {
+  color: var(--colorsgreyscale-400);
+}
+
+.icon-input-fields.state-entered .default-3 {
+  color: var(--colorsgreyscale-600);
+}
+
+.icon-input-fields.state-active-info .default-3 {
+  color: var(--colorsgreyscale-400);
+}
+
+.icon-input-fields.state-valid .default-3 {
+  color: var(--colorsgreyscale-600);
+}
+
+.icon-input-fields.state-disabled-info .default-5 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  justify-content: center;
+}
+
+.icon-input-fields.state-invalid .default-5 {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-semibold-6-font-family);
+  font-size: var(--body-semibold-6-font-size);
+  font-style: var(--body-semibold-6-font-style);
+  font-weight: var(--body-semibold-6-font-weight);
+  letter-spacing: var(--body-semibold-6-letter-spacing);
+  line-height: var(--body-semibold-6-line-height);
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.icon-input-fields.state-active-info .default-5 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  justify-content: center;
+}
+
+.icon-input-fields.state-active .frame-11 {
+  background-color: var(--colorsgreyscale-100);
+  border-color: var(--colorsgreyscale-400);
+}
+
+.icon-input-fields.state-disabled-info .frame-11 {
+  background-color: var(--colorsgreyscale-300);
+  border-color: var(--colorsgreyscale-400);
+}
+
+.icon-input-fields.state-disabled .frame-11 {
+  background-color: var(--colorsgreyscale-100);
+  border-color: var(--colorsgreyscale-400);
+}
+
+.icon-input-fields.state-focus .frame-11 {
+  background-color: var(--colorsgreyscale-100);
+  border-color: var(--colorsgreyscale-400);
+}
+
+.icon-input-fields.state-invalid .frame-11 {
+  background-color: var(--colorsgreyscale-100);
+  border-color: #a73131;
+}
+
+.icon-input-fields.state-default .frame-11 {
+  background-color: var(--colorsgreyscale-100);
+  border-color: var(--colorsgreyscale-400);
+}
+
+.icon-input-fields.state-entered .frame-11 {
+  background-color: var(--colorsgreyscale-100);
+  border-color: var(--colorsgreyscale-400);
+}
+
+.icon-input-fields.state-active-info .frame-11 {
+  background-color: var(--colorsgreyscale-100);
+  border-color: var(--colorsgreyscale-400);
+}
+
+.icon-input-fields.state-valid .frame-11 {
+  background-color: var(--colorsgreyscale-100);
+  border-color: var(--colorsgreyscale-400);
+}
+
+.icon-input-fields.state-active .default-7 {
+  color: var(--colorsgreyscale-600);
+}
+
+.icon-input-fields.state-disabled-info .default-7 {
+  color: var(--colorsgreyscale-500);
+}
+
+.icon-input-fields.state-disabled .default-7 {
+  color: var(--colorsgreyscale-600);
+}
+
+.icon-input-fields.state-focus .default-7 {
+  color: var(--colorsgreyscale-600);
+}
+
+.icon-input-fields.state-invalid .default-7 {
+  color: var(--colorsgreyscale-600);
+}
+
+.icon-input-fields.state-default .default-7 {
+  color: var(--colorsgreyscale-600);
+}
+
+.icon-input-fields.state-entered .default-7 {
+  color: var(--colorsgreyscale-600);
+}
+
+.icon-input-fields.state-active-info .default-7 {
+  color: var(--colorsgreyscale-600);
+}
+
+.icon-input-fields.state-valid .default-7 {
+  color: var(--colorsgreyscale-600);
+}
+
+.icon-input-fields.state-active .invalid-input {
+  color: var(--colorsgreyscale-500);
+}
+
+.icon-input-fields.state-disabled-info .invalid-input {
+  color: var(--colorsgreyscale-500);
+}
+
+.icon-input-fields.state-disabled .invalid-input {
+  color: var(--colorsgreyscale-500);
+}
+
+.icon-input-fields.state-focus .invalid-input {
+  color: var(--colorsgreyscale-500);
+}
+
+.icon-input-fields.state-invalid .invalid-input {
+  color: #a73131;
+}
+
+.icon-input-fields.state-default .invalid-input {
+  color: var(--colorsgreyscale-500);
+}
+
+.icon-input-fields.state-entered .invalid-input {
+  color: var(--colorsgreyscale-500);
+}
+
+.icon-input-fields.state-active-info .invalid-input {
+  color: var(--colorsgreyscale-500);
+}
+
+.icon-input-fields.state-valid .invalid-input {
+  color: var(--colorsgreyscale-500);
+}
