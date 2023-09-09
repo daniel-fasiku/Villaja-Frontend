@@ -1,0 +1,572 @@
+.homepage-categories {
+  background-color: var(--colorsgreyscale-100);
+  border-radius: 8px;
+  overflow: hidden;
+  position: relative;
+}
+
+.homepage-categories .group-2 {
+  position: absolute;
+  top: 168px;
+}
+
+.homepage-categories .phones {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--headings-desktop-h4-font-family);
+  font-size: var(--headings-desktop-h4-font-size);
+  font-style: var(--headings-desktop-h4-font-style);
+  font-weight: var(--headings-desktop-h4-font-weight);
+  height: 34px;
+  letter-spacing: var(--headings-desktop-h4-letter-spacing);
+  line-height: var(--headings-desktop-h4-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.homepage-categories .shop-for-smartphones {
+  position: absolute;
+}
+
+.homepage-categories .small {
+  color: var(--colorsgreyscale-100);
+  font-family: var(--body-semibold-3-font-family);
+  font-size: var(--body-semibold-3-font-size);
+  font-style: var(--body-semibold-3-font-style);
+  font-weight: var(--body-semibold-3-font-weight);
+  letter-spacing: var(--body-semibold-3-letter-spacing);
+  line-height: var(--body-semibold-3-line-height);
+  margin-bottom: -1px;
+  margin-top: -5px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage-categories .icons {
+  height: 24px !important;
+  margin-bottom: -2px !important;
+  margin-top: -2px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.homepage-categories .pic {
+  height: 144px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 288px;
+}
+
+.homepage-categories .iphone {
+  position: absolute;
+}
+
+.homepage-categories.accessories-3 {
+  border: 2px solid;
+  border-color: transparent;
+  border-image: radial-gradient(rgba(255, 255, 255, 0), rgba(52, 87.2, 140, 0.2)) 1;
+  box-shadow: var(--shadow-1);
+  height: 292px;
+  width: 292px;
+}
+
+.homepage-categories.computer-1 {
+  box-shadow: var(--shadow-2);
+  height: 288px;
+  width: 288px;
+}
+
+.homepage-categories.computer-2 {
+  border: 2px solid;
+  border-color: transparent;
+  border-image: radial-gradient(rgba(255, 255, 255, 0), rgba(52, 87.2, 140, 0.2)) 1;
+  box-shadow: var(--shadow-1);
+  height: 292px;
+  width: 292px;
+}
+
+.homepage-categories.tablet-3 {
+  border: 2px solid;
+  border-color: transparent;
+  border-image: radial-gradient(rgba(255, 255, 255, 0), rgba(52, 87.2, 140, 0.2)) 1;
+  box-shadow: var(--shadow-1);
+  height: 292px;
+  width: 292px;
+}
+
+.homepage-categories.tablet-2 {
+  border: 2px solid;
+  border-color: transparent;
+  border-image: radial-gradient(rgba(255, 255, 255, 0), rgba(52, 87.2, 140, 0.2)) 1;
+  box-shadow: var(--shadow-1);
+  height: 292px;
+  width: 292px;
+}
+
+.homepage-categories.computer-3 {
+  border: 2px solid;
+  border-color: transparent;
+  border-image: radial-gradient(rgba(255, 255, 255, 0), rgba(52, 87.2, 140, 0.2)) 1;
+  box-shadow: var(--shadow-1);
+  height: 292px;
+  width: 292px;
+}
+
+.homepage-categories.accessories-1 {
+  box-shadow: var(--shadow-2);
+  height: 288px;
+  width: 288px;
+}
+
+.homepage-categories.accessories-2 {
+  border: 2px solid;
+  border-color: transparent;
+  border-image: radial-gradient(rgba(255, 255, 255, 0), rgba(52, 87.2, 140, 0.2)) 1;
+  box-shadow: var(--shadow-1);
+  height: 292px;
+  width: 292px;
+}
+
+.homepage-categories.phone-1 {
+  box-shadow: var(--shadow-2);
+  height: 288px;
+  width: 288px;
+}
+
+.homepage-categories.phones-2 {
+  border: 2px solid;
+  border-color: transparent;
+  border-image: radial-gradient(rgba(255, 255, 255, 0), rgba(52, 87.2, 140, 0.2)) 1;
+  box-shadow: var(--shadow-1);
+  height: 292px;
+  width: 292px;
+}
+
+.homepage-categories.tablet-1 {
+  box-shadow: var(--shadow-2);
+  height: 288px;
+  width: 288px;
+}
+
+.homepage-categories.phone-3 {
+  border: 2px solid;
+  border-color: transparent;
+  border-image: radial-gradient(rgba(255, 255, 255, 0), rgba(52, 87.2, 140, 0.2)) 1;
+  box-shadow: var(--shadow-1);
+  height: 292px;
+  width: 292px;
+}
+
+.homepage-categories.accessories-3 .group-2 {
+  height: 86px;
+  left: 68px;
+  width: 154px;
+}
+
+.homepage-categories.computer-1 .group-2 {
+  height: 90px;
+  left: 44px;
+  width: 204px;
+}
+
+.homepage-categories.computer-2 .group-2 {
+  height: 90px;
+  left: 44px;
+  width: 204px;
+}
+
+.homepage-categories.tablet-3 .group-2 {
+  height: 86px;
+  left: 91px;
+  width: 107px;
+}
+
+.homepage-categories.tablet-2 .group-2 {
+  height: 90px;
+  left: 44px;
+  width: 204px;
+}
+
+.homepage-categories.computer-3 .group-2 {
+  height: 86px;
+  left: 75px;
+  width: 141px;
+}
+
+.homepage-categories.accessories-1 .group-2 {
+  height: 90px;
+  left: 44px;
+  width: 204px;
+}
+
+.homepage-categories.accessories-2 .group-2 {
+  height: 90px;
+  left: 44px;
+  width: 204px;
+}
+
+.homepage-categories.phone-1 .group-2 {
+  height: 90px;
+  left: 44px;
+  width: 204px;
+}
+
+.homepage-categories.phones-2 .group-2 {
+  height: 90px;
+  left: 44px;
+  width: 204px;
+}
+
+.homepage-categories.tablet-1 .group-2 {
+  height: 90px;
+  left: 44px;
+  width: 204px;
+}
+
+.homepage-categories.phone-3 .group-2 {
+  height: 86px;
+  left: 91px;
+  width: 107px;
+}
+
+.homepage-categories.accessories-3 .phones {
+  left: 0;
+}
+
+.homepage-categories.computer-1 .phones {
+  left: 31px;
+}
+
+.homepage-categories.computer-2 .phones {
+  left: 31px;
+}
+
+.homepage-categories.tablet-3 .phones {
+  left: 6px;
+}
+
+.homepage-categories.tablet-2 .phones {
+  left: 54px;
+}
+
+.homepage-categories.computer-3 .phones {
+  left: 0;
+}
+
+.homepage-categories.accessories-1 .phones {
+  left: 24px;
+}
+
+.homepage-categories.accessories-2 .phones {
+  left: 24px;
+}
+
+.homepage-categories.phone-1 .phones {
+  left: 53px;
+}
+
+.homepage-categories.phones-2 .phones {
+  left: 53px;
+}
+
+.homepage-categories.tablet-1 .phones {
+  left: 54px;
+}
+
+.homepage-categories.phone-3 .phones {
+  left: 6px;
+}
+
+.homepage-categories.accessories-3 .shop-for-smartphones {
+  align-items: center;
+  background: linear-gradient(180deg, rgb(0, 180, 216) 0%, rgb(0, 119, 182) 100%);
+  border-radius: 16px;
+  display: flex;
+  gap: 4px;
+  height: 36px;
+  justify-content: center;
+  left: 24px;
+  overflow: hidden;
+  padding: 8px;
+  top: 50px;
+  width: 105px;
+}
+
+.homepage-categories.computer-1 .shop-for-smartphones {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-regular-4-font-family);
+  font-size: var(--body-regular-4-font-size);
+  font-style: var(--body-regular-4-font-style);
+  font-weight: var(--body-regular-4-font-weight);
+  height: 48px;
+  left: 0;
+  letter-spacing: var(--body-regular-4-letter-spacing);
+  line-height: var(--body-regular-4-line-height);
+  text-align: center;
+  top: 42px;
+  width: 200px;
+}
+
+.homepage-categories.computer-2 .shop-for-smartphones {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-regular-4-font-family);
+  font-size: var(--body-regular-4-font-size);
+  font-style: var(--body-regular-4-font-style);
+  font-weight: var(--body-regular-4-font-weight);
+  height: 48px;
+  left: 0;
+  letter-spacing: var(--body-regular-4-letter-spacing);
+  line-height: var(--body-regular-4-line-height);
+  text-align: center;
+  top: 42px;
+  width: 200px;
+}
+
+.homepage-categories.tablet-3 .shop-for-smartphones {
+  align-items: center;
+  background: linear-gradient(180deg, rgb(0, 180, 216) 0%, rgb(0, 119, 182) 100%);
+  border-radius: 16px;
+  display: flex;
+  gap: 4px;
+  height: 36px;
+  justify-content: center;
+  left: 0;
+  overflow: hidden;
+  padding: 8px;
+  top: 50px;
+  width: 105px;
+}
+
+.homepage-categories.tablet-2 .shop-for-smartphones {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-regular-4-font-family);
+  font-size: var(--body-regular-4-font-size);
+  font-style: var(--body-regular-4-font-style);
+  font-weight: var(--body-regular-4-font-weight);
+  height: 48px;
+  left: 0;
+  letter-spacing: var(--body-regular-4-letter-spacing);
+  line-height: var(--body-regular-4-line-height);
+  text-align: center;
+  top: 42px;
+  width: 200px;
+}
+
+.homepage-categories.computer-3 .shop-for-smartphones {
+  align-items: center;
+  background: linear-gradient(180deg, rgb(0, 180, 216) 0%, rgb(0, 119, 182) 100%);
+  border-radius: 16px;
+  display: flex;
+  gap: 4px;
+  height: 36px;
+  justify-content: center;
+  left: 17px;
+  overflow: hidden;
+  padding: 8px;
+  top: 50px;
+  width: 105px;
+}
+
+.homepage-categories.accessories-1 .shop-for-smartphones {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-regular-4-font-family);
+  font-size: var(--body-regular-4-font-size);
+  font-style: var(--body-regular-4-font-style);
+  font-weight: var(--body-regular-4-font-weight);
+  height: 48px;
+  left: 0;
+  letter-spacing: var(--body-regular-4-letter-spacing);
+  line-height: var(--body-regular-4-line-height);
+  text-align: center;
+  top: 42px;
+  width: 200px;
+}
+
+.homepage-categories.accessories-2 .shop-for-smartphones {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-regular-4-font-family);
+  font-size: var(--body-regular-4-font-size);
+  font-style: var(--body-regular-4-font-style);
+  font-weight: var(--body-regular-4-font-weight);
+  height: 48px;
+  left: 0;
+  letter-spacing: var(--body-regular-4-letter-spacing);
+  line-height: var(--body-regular-4-line-height);
+  text-align: center;
+  top: 42px;
+  width: 200px;
+}
+
+.homepage-categories.phone-1 .shop-for-smartphones {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-regular-4-font-family);
+  font-size: var(--body-regular-4-font-size);
+  font-style: var(--body-regular-4-font-style);
+  font-weight: var(--body-regular-4-font-weight);
+  height: 48px;
+  left: 0;
+  letter-spacing: var(--body-regular-4-letter-spacing);
+  line-height: var(--body-regular-4-line-height);
+  text-align: center;
+  top: 42px;
+  width: 200px;
+}
+
+.homepage-categories.phones-2 .shop-for-smartphones {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-regular-4-font-family);
+  font-size: var(--body-regular-4-font-size);
+  font-style: var(--body-regular-4-font-style);
+  font-weight: var(--body-regular-4-font-weight);
+  height: 48px;
+  left: 0;
+  letter-spacing: var(--body-regular-4-letter-spacing);
+  line-height: var(--body-regular-4-line-height);
+  text-align: center;
+  top: 42px;
+  width: 200px;
+}
+
+.homepage-categories.tablet-1 .shop-for-smartphones {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-regular-4-font-family);
+  font-size: var(--body-regular-4-font-size);
+  font-style: var(--body-regular-4-font-style);
+  font-weight: var(--body-regular-4-font-weight);
+  height: 48px;
+  left: 0;
+  letter-spacing: var(--body-regular-4-letter-spacing);
+  line-height: var(--body-regular-4-line-height);
+  text-align: center;
+  top: 42px;
+  width: 200px;
+}
+
+.homepage-categories.phone-3 .shop-for-smartphones {
+  align-items: center;
+  background: linear-gradient(180deg, rgb(0, 180, 216) 0%, rgb(0, 119, 182) 100%);
+  border-radius: 16px;
+  display: flex;
+  gap: 4px;
+  height: 36px;
+  justify-content: center;
+  left: 0;
+  overflow: hidden;
+  padding: 8px;
+  top: 50px;
+  width: 105px;
+}
+
+.homepage-categories.tablet-3 .pic {
+  background-image: url(../../../static/img/iphone-1-9.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.homepage-categories.tablet-2 .pic {
+  background-image: url(../../../static/img/iphone-1-9.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.homepage-categories.phones-2 .pic {
+  background-color: var(--colorsgreyscale-100);
+}
+
+.homepage-categories.phone-3 .pic {
+  background-color: var(--colorsgreyscale-100);
+}
+
+.homepage-categories.accessories-3 .iphone {
+  height: 142px;
+  left: 28px;
+  object-fit: cover;
+  top: 1px;
+  width: 232px;
+}
+
+.homepage-categories.computer-1 .iphone {
+  height: 142px;
+  left: 28px;
+  top: 1px;
+  width: 232px;
+}
+
+.homepage-categories.computer-2 .iphone {
+  height: 144px;
+  left: 9px;
+  object-fit: cover;
+  top: 0;
+  width: 270px;
+}
+
+.homepage-categories.tablet-3 .iphone {
+  height: 142px;
+  left: 28px;
+  top: 1px;
+  width: 232px;
+}
+
+.homepage-categories.tablet-2 .iphone {
+  height: 142px;
+  left: 28px;
+  top: 1px;
+  width: 232px;
+}
+
+.homepage-categories.computer-3 .iphone {
+  height: 144px;
+  left: 9px;
+  object-fit: cover;
+  top: 0;
+  width: 270px;
+}
+
+.homepage-categories.accessories-1 .iphone {
+  height: 142px;
+  left: 28px;
+  top: 1px;
+  width: 232px;
+}
+
+.homepage-categories.accessories-2 .iphone {
+  height: 142px;
+  left: 28px;
+  object-fit: cover;
+  top: 1px;
+  width: 232px;
+}
+
+.homepage-categories.phone-1 .iphone {
+  height: 142px;
+  left: 28px;
+  top: 1px;
+  width: 232px;
+}
+
+.homepage-categories.phones-2 .iphone {
+  height: 144px;
+  left: 0;
+  object-fit: cover;
+  top: 0;
+  width: 288px;
+}
+
+.homepage-categories.tablet-1 .iphone {
+  height: 142px;
+  left: 28px;
+  top: 1px;
+  width: 232px;
+}
+
+.homepage-categories.phone-3 .iphone {
+  height: 144px;
+  left: 0;
+  object-fit: cover;
+  top: 0;
+  width: 288px;
+}
