@@ -1,0 +1,432 @@
+.order-summary {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.order-summary .div {
+  background-color: #ffffff;
+  height: 804px;
+  position: relative;
+  width: 577px;
+}
+
+.order-summary .frame {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 24px;
+  left: 32px;
+  position: absolute;
+  top: 32px;
+}
+
+.order-summary .group {
+  height: 98px;
+  margin-right: -4px;
+  position: relative;
+  width: 517px;
+}
+
+.order-summary .div-wrapper {
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 201px;
+}
+
+.order-summary .text-wrapper {
+  color: var(--colorsgreyscale-500);
+  font-family: var(--headings-desktop-h4-font-family);
+  font-size: var(--headings-desktop-h4-font-size);
+  font-style: var(--headings-desktop-h4-font-style);
+  font-weight: var(--headings-desktop-h4-font-weight);
+  height: 34px;
+  left: 0;
+  letter-spacing: var(--headings-desktop-h4-letter-spacing);
+  line-height: var(--headings-desktop-h4-line-height);
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.order-summary .text-wrapper-2 {
+  color: var(--colorsgreyscale-500);
+  font-family: var(--body-regular-4-font-family);
+  font-size: var(--body-regular-4-font-size);
+  font-style: var(--body-regular-4-font-style);
+  font-weight: var(--body-regular-4-font-weight);
+  height: 24px;
+  left: 0;
+  letter-spacing: var(--body-regular-4-letter-spacing);
+  line-height: var(--body-regular-4-line-height);
+  position: absolute;
+  top: 42px;
+  white-space: nowrap;
+}
+
+.order-summary .text-wrapper-3 {
+  color: var(--colorsgreyscale-500);
+  font-family: var(--body-regular-4-font-family);
+  font-size: var(--body-regular-4-font-size);
+  font-style: var(--body-regular-4-font-style);
+  font-weight: var(--body-regular-4-font-weight);
+  height: 24px;
+  left: 0;
+  letter-spacing: var(--body-regular-4-letter-spacing);
+  line-height: var(--body-regular-4-line-height);
+  position: absolute;
+  top: 74px;
+  white-space: nowrap;
+}
+
+.order-summary .order-status-instance {
+  left: 397px !important;
+  position: absolute !important;
+  top: -1px !important;
+}
+
+.order-summary .design-component-instance-node {
+  height: 20px !important;
+  left: 2px !important;
+  top: 2px !important;
+  width: 20px !important;
+}
+
+.order-summary .frame-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.order-summary .frame-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+}
+
+.order-summary .frame-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.order-summary .frame-5 {
+  height: 48px;
+  position: relative;
+  width: 513px;
+}
+
+.order-summary .frame-6 {
+  background-color: var(--colorsgreyscale-100);
+  height: 34px;
+  left: 4px;
+  position: absolute;
+  top: 7px;
+  width: 218px;
+}
+
+.order-summary .p {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-regular-4-font-family);
+  font-size: var(--body-regular-4-font-size);
+  font-style: var(--body-regular-4-font-style);
+  font-weight: var(--body-regular-4-font-weight);
+  height: 24px;
+  left: 0;
+  letter-spacing: var(--body-regular-4-letter-spacing);
+  line-height: var(--body-regular-4-line-height);
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+  width: 218px;
+}
+
+.order-summary .frame-7 {
+  background-color: var(--colorsgreyscale-100);
+  height: 34px;
+  left: 292px;
+  position: absolute;
+  top: 7px;
+  width: 20px;
+}
+
+.order-summary .text-wrapper-4 {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-regular-4-font-family);
+  font-size: var(--body-regular-4-font-size);
+  font-style: var(--body-regular-4-font-style);
+  font-weight: var(--body-regular-4-font-weight);
+  height: 24px;
+  left: 0;
+  letter-spacing: var(--body-regular-4-letter-spacing);
+  line-height: var(--body-regular-4-line-height);
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.order-summary .frame-8 {
+  background-color: var(--colorsgreyscale-100);
+  height: 34px;
+  left: 382px;
+  position: absolute;
+  top: 7px;
+  width: 113px;
+}
+
+.order-summary .text-wrapper-5 {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-regular-4-font-family);
+  font-size: var(--body-regular-4-font-size);
+  font-style: var(--body-regular-4-font-style);
+  font-weight: var(--body-regular-4-font-weight);
+  height: 24px;
+  left: -3px;
+  letter-spacing: var(--body-regular-4-letter-spacing);
+  line-height: var(--body-regular-4-line-height);
+  position: absolute;
+  text-align: right;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.order-summary .group-2 {
+  height: 96px;
+  position: relative;
+  width: 513px;
+}
+
+.order-summary .frame-9 {
+  background-color: var(--icy-gray);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--colorsgreyscale-400);
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 513px;
+}
+
+.order-summary .text-wrapper-6 {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-semibold-4-font-family);
+  font-size: var(--body-semibold-4-font-size);
+  font-style: var(--body-semibold-4-font-style);
+  font-weight: var(--body-semibold-4-font-weight);
+  height: 24px;
+  left: 4px;
+  letter-spacing: var(--body-semibold-4-letter-spacing);
+  line-height: var(--body-semibold-4-line-height);
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+  width: 218px;
+}
+
+.order-summary .text-wrapper-7 {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-semibold-4-font-family);
+  font-size: var(--body-semibold-4-font-size);
+  font-style: var(--body-semibold-4-font-style);
+  font-weight: var(--body-semibold-4-font-weight);
+  height: 24px;
+  left: 411px;
+  letter-spacing: var(--body-semibold-4-letter-spacing);
+  line-height: var(--body-semibold-4-line-height);
+  position: absolute;
+  text-align: right;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.order-summary .frame-10 {
+  background-color: var(--icy-gray);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--colorsgreyscale-400);
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 48px;
+  width: 513px;
+}
+
+.order-summary .text-wrapper-8 {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-semibold-4-font-family);
+  font-size: var(--body-semibold-4-font-size);
+  font-style: var(--body-semibold-4-font-style);
+  font-weight: var(--body-semibold-4-font-weight);
+  height: 24px;
+  left: 366px;
+  letter-spacing: var(--body-semibold-4-letter-spacing);
+  line-height: var(--body-semibold-4-line-height);
+  position: absolute;
+  text-align: right;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.order-summary .group-3 {
+  height: 137px;
+  position: relative;
+  width: 198px;
+}
+
+.order-summary .text-wrapper-9 {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-semibold-4-font-family);
+  font-size: var(--body-semibold-4-font-size);
+  font-style: var(--body-semibold-4-font-style);
+  font-weight: var(--body-semibold-4-font-weight);
+  height: 24px;
+  left: 0;
+  letter-spacing: var(--body-semibold-4-letter-spacing);
+  line-height: var(--body-semibold-4-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.order-summary .group-4 {
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 40px;
+  width: 115px;
+}
+
+.order-summary .text-wrapper-10 {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-regular-5-font-family);
+  font-size: var(--body-regular-5-font-size);
+  font-style: var(--body-regular-5-font-style);
+  font-weight: var(--body-regular-5-font-weight);
+  height: 22px;
+  left: 40px;
+  letter-spacing: var(--body-regular-5-letter-spacing);
+  line-height: var(--body-regular-5-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.order-summary .account-circle {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 24px;
+}
+
+.order-summary .group-5 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 77px;
+  width: 198px;
+}
+
+.order-summary .text-wrapper-11 {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-regular-5-font-family);
+  font-size: var(--body-regular-5-font-size);
+  font-style: var(--body-regular-5-font-style);
+  font-weight: var(--body-regular-5-font-weight);
+  height: 22px;
+  left: 40px;
+  letter-spacing: var(--body-regular-5-letter-spacing);
+  line-height: var(--body-regular-5-line-height);
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.order-summary .img {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.order-summary .group-6 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 113px;
+  width: 144px;
+}
+
+.order-summary .group-7 {
+  height: 110px;
+  position: relative;
+  width: 240px;
+}
+
+.order-summary .text-wrapper-12 {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-semibold-4-font-family);
+  font-size: var(--body-semibold-4-font-size);
+  font-style: var(--body-semibold-4-font-style);
+  font-weight: var(--body-semibold-4-font-weight);
+  height: 29px;
+  left: 0;
+  letter-spacing: var(--body-semibold-4-letter-spacing);
+  line-height: var(--body-semibold-4-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 169px;
+}
+
+.order-summary .text-wrapper-13 {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-regular-5-font-family);
+  font-size: var(--body-regular-5-font-size);
+  font-style: var(--body-regular-5-font-style);
+  font-weight: var(--body-regular-5-font-weight);
+  height: 26px;
+  left: 0;
+  letter-spacing: var(--body-regular-5-letter-spacing);
+  line-height: var(--body-regular-5-line-height);
+  position: absolute;
+  top: 48px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.order-summary .text-wrapper-14 {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-regular-5-font-family);
+  font-size: var(--body-regular-5-font-size);
+  font-style: var(--body-regular-5-font-style);
+  font-weight: var(--body-regular-5-font-weight);
+  height: 26px;
+  left: 0;
+  letter-spacing: var(--body-regular-5-letter-spacing);
+  line-height: var(--body-regular-5-line-height);
+  position: absolute;
+  top: 84px;
+  white-space: nowrap;
+  width: 234px;
+}
+
+.order-summary .buttons-instance {
+  left: 281px !important;
+  position: absolute !important;
+  top: 728px !important;
+}
