@@ -1,0 +1,347 @@
+.buttons {
+  align-items: center;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  padding: 8px 4px;
+  position: relative;
+}
+
+.buttons .ADD-TO-CART {
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.buttons.small-ghost {
+  gap: 8px;
+  height: 42px;
+  width: 165px;
+}
+
+.buttons.xsmall-filled {
+  background: linear-gradient(180deg, rgb(0, 180, 216) 0%, rgb(0, 119, 182) 100%);
+  gap: 8px;
+  height: 32px;
+  width: 120px;
+}
+
+.buttons.small-inactive {
+  background-color: var(--icy-gray);
+  gap: 8px;
+  height: 42px;
+  width: 165px;
+}
+
+.buttons.small-filled {
+  background: linear-gradient(180deg, rgb(0, 180, 216) 0%, rgb(0, 119, 182) 100%);
+  gap: 8px;
+  height: 42px;
+  width: 165px;
+}
+
+.buttons.xsmall-outlined {
+  background-color: var(--icy-gray);
+  gap: 8px;
+  height: 32px;
+  width: 120px;
+}
+
+.buttons.default-ghost {
+  gap: 8px;
+  height: 44px;
+  width: 264px;
+}
+
+.buttons.default-filled-hover {
+  background: linear-gradient(180deg, rgb(0, 180, 216) 0%, rgb(0, 119, 182) 100%);
+  box-shadow: var(--shadow-2);
+  gap: 8px;
+  height: 44px;
+  width: 264px;
+}
+
+.buttons.checkout-default {
+  background: linear-gradient(180deg, rgb(0, 180, 216) 0%, rgb(0, 119, 182) 100%);
+  gap: 8px;
+  height: 44px;
+  width: 264px;
+}
+
+.buttons.large-inactive {
+  background-color: var(--icy-gray);
+  border: 2px solid;
+  border-color: var(--colorsgreyscale-500);
+  gap: 8px;
+  height: 72px;
+  width: 280px;
+}
+
+.buttons.default-outlined {
+  background-color: var(--icy-gray);
+  border: 2px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(0, 180, 216), rgb(0, 119, 182)) 1;
+  gap: 8px;
+  height: 44px;
+  width: 264px;
+}
+
+.buttons.large-filled {
+  background: linear-gradient(180deg, rgb(0, 180, 216) 0%, rgb(0, 119, 182) 100%);
+  gap: 8px;
+  height: 72px;
+  width: 280px;
+}
+
+.buttons.large-filled-hover {
+  background: linear-gradient(180deg, rgb(0, 180, 216) 0%, rgb(0, 119, 182) 100%);
+  box-shadow: var(--shadow-2);
+  gap: 8px;
+  height: 72px;
+  width: 280px;
+}
+
+.buttons.smaall-outlined {
+  background-color: var(--icy-gray);
+  gap: 8px;
+  height: 42px;
+  width: 165px;
+}
+
+.buttons.large-outlined {
+  background-color: var(--icy-gray);
+  border: 2px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(0, 180, 216), rgb(0, 119, 182)) 1;
+  gap: 8px;
+  height: 72px;
+  width: 280px;
+}
+
+.buttons.default-inactive {
+  background-color: var(--icy-gray);
+  border: 2px solid;
+  border-color: var(--colorsgreyscale-500);
+  gap: 8px;
+  height: 44px;
+  width: 264px;
+}
+
+.buttons.default-filled {
+  background: linear-gradient(180deg, rgb(0, 180, 216) 0%, rgb(0, 119, 182) 100%);
+  gap: 16px;
+  height: 44px;
+  width: 264px;
+}
+
+.buttons.large-outlined-hover {
+  background-color: var(--icy-gray);
+  border: 2px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(0, 180, 216), rgb(0, 119, 182)) 1;
+  box-shadow: var(--shadow-2);
+  gap: 8px;
+  height: 72px;
+  width: 280px;
+}
+
+.buttons.small-ghost .ADD-TO-CART {
+  color: var(--colorsgreyscale-100);
+  font-family: var(--body-semibold-5-font-family);
+  font-size: var(--body-semibold-5-font-size);
+  font-style: var(--body-semibold-5-font-style);
+  font-weight: var(--body-semibold-5-font-weight);
+  letter-spacing: var(--body-semibold-5-letter-spacing);
+  line-height: var(--body-semibold-5-line-height);
+}
+
+.buttons.xsmall-filled .ADD-TO-CART {
+  color: var(--colorsgreyscale-100);
+  font-family: var(--body-semibold-5-font-family);
+  font-size: var(--body-semibold-5-font-size);
+  font-style: var(--body-semibold-5-font-style);
+  font-weight: var(--body-semibold-5-font-weight);
+  letter-spacing: var(--body-semibold-5-letter-spacing);
+  line-height: var(--body-semibold-5-line-height);
+  margin-bottom: -2px;
+  margin-top: -4px;
+}
+
+.buttons.small-inactive .ADD-TO-CART {
+  color: var(--colorsgreyscale-500);
+  font-family: var(--body-semibold-5-font-family);
+  font-size: var(--body-semibold-5-font-size);
+  font-style: var(--body-semibold-5-font-style);
+  font-weight: var(--body-semibold-5-font-weight);
+  letter-spacing: var(--body-semibold-5-letter-spacing);
+  line-height: var(--body-semibold-5-line-height);
+}
+
+.buttons.small-filled .ADD-TO-CART {
+  color: var(--colorsgreyscale-100);
+  font-family: var(--body-semibold-5-font-family);
+  font-size: var(--body-semibold-5-font-size);
+  font-style: var(--body-semibold-5-font-style);
+  font-weight: var(--body-semibold-5-font-weight);
+  letter-spacing: var(--body-semibold-5-letter-spacing);
+  line-height: var(--body-semibold-5-line-height);
+}
+
+.buttons.xsmall-outlined .ADD-TO-CART {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(0, 180, 216) 0%, rgb(0, 119, 182) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: var(--body-semibold-5-font-family);
+  font-size: var(--body-semibold-5-font-size);
+  font-style: var(--body-semibold-5-font-style);
+  font-weight: var(--body-semibold-5-font-weight);
+  letter-spacing: var(--body-semibold-5-letter-spacing);
+  line-height: var(--body-semibold-5-line-height);
+  margin-bottom: -2px;
+  margin-top: -4px;
+  text-fill-color: transparent;
+}
+
+.buttons.default-ghost .ADD-TO-CART {
+  color: var(--icy-gray);
+  font-family: var(--body-semibold-4-font-family);
+  font-size: var(--body-semibold-4-font-size);
+  font-style: var(--body-semibold-4-font-style);
+  font-weight: var(--body-semibold-4-font-weight);
+  letter-spacing: var(--body-semibold-4-letter-spacing);
+  line-height: var(--body-semibold-4-line-height);
+}
+
+.buttons.default-filled-hover .ADD-TO-CART {
+  color: var(--colorsgreyscale-100);
+  font-family: var(--body-semibold-4-font-family);
+  font-size: var(--body-semibold-4-font-size);
+  font-style: var(--body-semibold-4-font-style);
+  font-weight: var(--body-semibold-4-font-weight);
+  letter-spacing: var(--body-semibold-4-letter-spacing);
+  line-height: var(--body-semibold-4-line-height);
+}
+
+.buttons.checkout-default .ADD-TO-CART {
+  color: var(--colorsgreyscale-100);
+  font-family: var(--body-semibold-4-font-family);
+  font-size: var(--body-semibold-4-font-size);
+  font-style: var(--body-semibold-4-font-style);
+  font-weight: var(--body-semibold-4-font-weight);
+  letter-spacing: var(--body-semibold-4-letter-spacing);
+  line-height: var(--body-semibold-4-line-height);
+}
+
+.buttons.large-inactive .ADD-TO-CART {
+  color: var(--colorsgreyscale-500);
+  font-family: var(--body-semibold-1-font-family);
+  font-size: var(--body-semibold-1-font-size);
+  font-style: var(--body-semibold-1-font-style);
+  font-weight: var(--body-semibold-1-font-weight);
+  letter-spacing: var(--body-semibold-1-letter-spacing);
+  line-height: var(--body-semibold-1-line-height);
+}
+
+.buttons.default-outlined .ADD-TO-CART {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(0, 180, 216) 0%, rgb(0, 119, 182) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: var(--body-semibold-4-font-family);
+  font-size: var(--body-semibold-4-font-size);
+  font-style: var(--body-semibold-4-font-style);
+  font-weight: var(--body-semibold-4-font-weight);
+  letter-spacing: var(--body-semibold-4-letter-spacing);
+  line-height: var(--body-semibold-4-line-height);
+  text-fill-color: transparent;
+}
+
+.buttons.large-filled .ADD-TO-CART {
+  color: var(--colorsgreyscale-100);
+  font-family: var(--body-semibold-1-font-family);
+  font-size: var(--body-semibold-1-font-size);
+  font-style: var(--body-semibold-1-font-style);
+  font-weight: var(--body-semibold-1-font-weight);
+  letter-spacing: var(--body-semibold-1-letter-spacing);
+  line-height: var(--body-semibold-1-line-height);
+}
+
+.buttons.large-filled-hover .ADD-TO-CART {
+  color: var(--colorsgreyscale-100);
+  font-family: var(--body-semibold-1-font-family);
+  font-size: var(--body-semibold-1-font-size);
+  font-style: var(--body-semibold-1-font-style);
+  font-weight: var(--body-semibold-1-font-weight);
+  letter-spacing: var(--body-semibold-1-letter-spacing);
+  line-height: var(--body-semibold-1-line-height);
+}
+
+.buttons.smaall-outlined .ADD-TO-CART {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(0, 180, 216) 0%, rgb(0, 119, 182) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: var(--body-semibold-5-font-family);
+  font-size: var(--body-semibold-5-font-size);
+  font-style: var(--body-semibold-5-font-style);
+  font-weight: var(--body-semibold-5-font-weight);
+  letter-spacing: var(--body-semibold-5-letter-spacing);
+  line-height: var(--body-semibold-5-line-height);
+  text-fill-color: transparent;
+}
+
+.buttons.large-outlined .ADD-TO-CART {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(0, 180, 216) 0%, rgb(0, 119, 182) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: var(--body-semibold-1-font-family);
+  font-size: var(--body-semibold-1-font-size);
+  font-style: var(--body-semibold-1-font-style);
+  font-weight: var(--body-semibold-1-font-weight);
+  letter-spacing: var(--body-semibold-1-letter-spacing);
+  line-height: var(--body-semibold-1-line-height);
+  text-fill-color: transparent;
+}
+
+.buttons.default-inactive .ADD-TO-CART {
+  color: var(--colorsgreyscale-500);
+  font-family: var(--body-semibold-4-font-family);
+  font-size: var(--body-semibold-4-font-size);
+  font-style: var(--body-semibold-4-font-style);
+  font-weight: var(--body-semibold-4-font-weight);
+  letter-spacing: var(--body-semibold-4-letter-spacing);
+  line-height: var(--body-semibold-4-line-height);
+}
+
+.buttons.default-filled .ADD-TO-CART {
+  color: var(--colorsgreyscale-100);
+  font-family: var(--body-semibold-4-font-family);
+  font-size: var(--body-semibold-4-font-size);
+  font-style: var(--body-semibold-4-font-style);
+  font-weight: var(--body-semibold-4-font-weight);
+  letter-spacing: var(--body-semibold-4-letter-spacing);
+  line-height: var(--body-semibold-4-line-height);
+}
+
+.buttons.large-outlined-hover .ADD-TO-CART {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(0, 180, 216) 0%, rgb(0, 119, 182) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: var(--body-semibold-1-font-family);
+  font-size: var(--body-semibold-1-font-size);
+  font-style: var(--body-semibold-1-font-style);
+  font-weight: var(--body-semibold-1-font-weight);
+  letter-spacing: var(--body-semibold-1-letter-spacing);
+  line-height: var(--body-semibold-1-line-height);
+  text-fill-color: transparent;
+}
