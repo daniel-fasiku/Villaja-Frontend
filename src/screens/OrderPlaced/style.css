@@ -1,0 +1,65 @@
+.order-placed {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.order-placed .div {
+  background-color: #ffffff;
+  height: 600px;
+  position: relative;
+  width: 400px;
+}
+
+.order-placed .vector {
+  height: 193px;
+  left: 93px;
+  position: absolute;
+  top: 107px;
+  width: 212px;
+}
+
+.order-placed .text-wrapper {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--headings-desktop-h4-font-family);
+  font-size: var(--headings-desktop-h4-font-size);
+  font-style: var(--headings-desktop-h4-font-style);
+  font-weight: var(--headings-desktop-h4-font-weight);
+  left: 109px;
+  letter-spacing: var(--headings-desktop-h4-letter-spacing);
+  line-height: var(--headings-desktop-h4-line-height);
+  position: absolute;
+  top: 363px;
+  white-space: nowrap;
+  width: 181px;
+}
+
+.order-placed .buttons-instance {
+  left: 68px !important;
+  position: absolute !important;
+  top: 460px !important;
+}
+
+.order-placed .p {
+  color: var(--colorsgreyscale-600);
+  font-family: var(--body-regular-4-font-family);
+  font-size: var(--body-regular-4-font-size);
+  font-style: var(--body-regular-4-font-style);
+  font-weight: var(--body-regular-4-font-weight);
+  left: 72px;
+  letter-spacing: var(--body-regular-4-letter-spacing);
+  line-height: var(--body-regular-4-line-height);
+  position: absolute;
+  top: 411px;
+  white-space: nowrap;
+}
+
+.order-placed .exit-1 {
+  height: 28px !important;
+  left: 348px !important;
+  position: absolute !important;
+  top: 24px !important;
+  width: 28px !important;
+}
